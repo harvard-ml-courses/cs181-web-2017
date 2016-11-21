@@ -52,12 +52,17 @@
       <div class="container ">
         <!-- <div class="panel-body"> -->
         <dl>
-          <dt>Instructor</dt>
-          <dd>David Parkes <<a>parkes@eecs.harvard.edu</a>> </dd>
-          <dd>OH: </dd>
-        <dd>Alexander "Sasha" Rush <<a>srush@seas.harvard.edu</a>> </dd>
-        <dd>  OH: Wed 1-4, MD 217 (<a href="http://tinyurl.com/srush-schedule">reserve</a>)</dd>
+          <dt>Instructors</dt>
+          <dd> <ul><li>David Parkes <<a>parkes@eecs.harvard.edu</a>></li>
+              <li>Alexander "Sasha" Rush <<a>srush@seas.harvard.edu</a>> <br>
+                  OH: Wed 1-4, MD 217 (<a href="http://tinyurl.com/srush-schedule">reserve</a>)</dd>
+              </li> 
+          </dd>
+          
+        <dt>Lectures</dt>
+        <dd> <ul><li>Tues/Thurs 10:00-11:30am </li></ul></dd>
 
+        
         <dt>Teaching Assistants</dt>
         <dd>
           <ul>
@@ -79,11 +84,9 @@
           </ul>
         </dd>
 
-        <dt>Lectures</dt>
-        <dd>Tues/Thurs 10:00-11:30am </dd>
 
-        <dt>Sections</dt>
-          <dd>
+        <dt>Section Times</dt>
+          <dd><ul><li>TBD</li></ul>
           </dd>
 
         <dt>Links</dt>

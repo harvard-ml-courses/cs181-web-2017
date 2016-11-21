@@ -1,6 +1,28 @@
 tas:
   - name: Shai Szulanski 
     email: sszulanski@college.harvard.edu
+  - name: Jeffrey Ling
+    email: jling@college.harvard.edu
+  - name: Samuel Cheng
+    email: samuelcheng@college.harvard.edu
+  - name: Ankit Gupta
+    email: ankitgupta@college.harvard.edu
+  - name: Aidi Zhang
+    email: aidizhang@college.harvard.edu
+  - name: Lily Zhang
+    email: lilyhongzhang@college.harvard.edu
+  - name: Frances Ding
+    email: francesding@college.harvard.edu
+  - name: Mark Goldstein
+    email: goldstein.mark@gmail.com
+  - name: Charles Liu
+    email: charlesliu@college.harvard.edu
+  - name: Jeffrey Chang
+    email: jeffreychang@college.harvard.edu
+  - name: Fanney Zhu
+    email: fanneyzhu@college.harvard.edu
+  - name: Carl Denton        
+    email: carldenton@college.harvard.edu
 
 
 dates: ["", "Jan. 24", "Jan. 26", "Jan. 31", "Feb. 2", "Feb. 7", "Feb. 9", "Feb. 11", "Feb. 14", "Feb. 16",
@@ -43,7 +65,7 @@ lectures:
     papers:
   - topic: 
     subtopic: Model Regularization
-    hw: P1 Regression due
+    hw: P1 Regression (<a href="https://inclass.kaggle.com/c/cs181-regression-practical">Kaggle</a>) 
     papers:
   - topic: Classification
     subtopic: Linear Classification
@@ -67,7 +89,7 @@ lectures:
     papers:
   - topic: 
     subtopic: Support Vector Machines
-    hw: P2 Classification due
+    hw: P2 Classification (<a href="https://inclass.kaggle.com/c/cs-181-classification-practical">Kaggle</a>)
     papers:
   - topic: 
     subtopic: Midterm 1
@@ -99,9 +121,9 @@ lectures:
     papers:
   - topic: 
     subtopic: Bayesian Networks
-    hw: P3 Unsupervised due
+    hw: P3 Unsupervised (<a href="https://inclass.kaggle.com/c/cs-181-unsupervised-practical">Kaggle</a>) 
     papers:
-  - topic: RL
+  - topic: Reinforcement Learning
     subtopic: MDP / Value and Policy Iteration
     hw: 
     papers:
@@ -119,6 +141,6 @@ lectures:
     papers:
   - topic: 
     subtopic: Midterm 2
-    hw: P4 RL Due
+    hw: P4 RL (<a href="https://inclass.kaggle.com/c/cs-181-rl-practical">Kaggle</a>)
     papers:
 

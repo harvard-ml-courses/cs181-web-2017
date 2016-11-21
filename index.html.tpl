@@ -30,8 +30,8 @@
     <div class="row">
     </div>
     <div class="container">
-      <div class="panel panel-primary" style="margin-top:10px;background-color:#B75F33;border-color:#000000;">
-        <div class="panel-heading" style="background-color:#B75F33;border-color:#B75F33;">
+      <div class="panel panel-primary" style="margin-top:10px;background-color:#2D6ED3;border-color:#000000;">
+        <div class="panel-heading" style="background-color:#2D6ED3;border-color:#2D6ED3;">
           <h1>CS181: Machine Learning</h1>
           <p class="lead">Harvard University</p>
 
@@ -62,16 +62,25 @@
         <dd>
           <ul>
             {% for ta in tas %}
-            <li>{{ta.name}} <<a href="mailto:{{ta.email}}">{{ta.email}}</a>> OH: {{ta.ohtime}}}, {{ta.location}}} </li>
+            <li>{{ta.name}} <<a href="mailto:{{ta.email}}">{{ta.email}}</a>> </li>
             {% endfor %}
           </ul>
         </dd>
 
-        <dt>Course Email</dt>
-        <dd><ul><li><<a href="mailto:cs287-harvard@googlegroups.com">cs287-harvard@googlegroups.com</a>></ul></li></dd>
+        <dt>Forum</dt>
+          <dd><ul><li><a href="https://piazza.com/harvard/spring2017/cs181">Piazza </a></li></ul></dd>
+
+        <dt>Office Hours</dt>
+        <dd>
+          <ul>
+            {% for oh in ohs %}
+            <li>{{oh.time}}: {{oh.location}}</li>
+            {% endfor %}
+          </ul>
+        </dd>
 
         <dt>Lectures</dt>
-        <dd>Tues/Thurs 2:30-4pm Jefferson 256</dd>
+        <dd>Tues/Thurs 10:00-11:30am </dd>
 
         <dt>Sections</dt>
           <dd>
@@ -80,11 +89,11 @@
         <dt>Links</dt>
         <dd>
           <ul>
-            <li><a href="https://github.com/CS287/Lectures/raw/master/syllabus.pdf">Syllabus</a></li>
-            <li><a href="http://piazza.com/harvard/spring2016/cs287">Piazza Forum</a></li>
-            <li><a href="https://canvas.harvard.edu/courses/9534">Canvas Site</a></li>
+
+            <li><a href="">Syllabus</a></li>
+
+            <li><a href="https://canvas.harvard.edu/courses/21992">Canvas Site</a></li>
             <li><a href="http://www.github.com/cs287/hw_template/">Write-Up Template</a></li>
-            <li><a href="http://u.cs.biu.ac.il/~yogo/nnlp.pdf">Primer on NN for NLP (YG)</a></li>
           </ul>
         </dd>
 
@@ -92,14 +101,6 @@
       </div>
       </div>
         <hr>
-        <div class="row container">
-          <h3 id="announcements">Announcements</h3>
-
-          <ul>
-            <li>The nn tutorial will be Friday (2/12) at 2pm, in MD 223</li>
-            <li>The Torch tutorial will be tomorrow (1/29) at 2pm, in Pierce 320</li>
-          </ul>
-        </div>
         <hr>
         <div class="row container">
           <h3 id="schedule">Schedule</h3>
@@ -109,7 +110,7 @@
         <tr><th>Date</th> <th>Area</th> <th>Topic</th><th>Readings</th> <th>Notes </th> <th>Assignment</th></tr>
         {% for lecture in lectures %}
         <tr>
-          <td> {{lecture.date}} </td> <td> {{lecture.topic | default("",true)}} </td>
+          <td> {{dates[loop.index]}} </td> <td> {{lecture.topic | default("",true)}} </td>
           <td> {{lecture.subtopic|default("", true)}}</td>
           <td>
             {% if lecture.papers %}

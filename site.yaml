@@ -81,7 +81,7 @@ lectures:
     papers:
   - topic: 
     subtopic: Neural Networks 2
-    hw: T2 <a href="https://canvas.harvard.edu/courses/21992/assignments/117078">Classification</a> due
+    hw: T2 <a href="https://canvas.harvard.edu/courses/21992/assignments/117078">Classification</a>
     papers:
   - topic: Margin-Based Models
     subtopic: Max-Margin Classification
@@ -105,7 +105,7 @@ lectures:
     papers:
   - topic: Unsupervised Learning
     subtopic: PCA
-    hw: T3 <a href="https://canvas.harvard.edu/courses/21992/assignments/117080">SVMs</a> due
+    hw: T3 <a href="https://canvas.harvard.edu/courses/21992/assignments/117080">SVMs</a>
     papers:
   - topic: 
     subtopic: Mixture Models, EM
@@ -113,7 +113,7 @@ lectures:
     papers:
   - topic: 
     subtopic: Topic Models
-    hw: T4 <a href="https://canvas.harvard.edu/courses/21992/assignments/117081">Clustering</a> due
+    hw: T4 <a href="https://canvas.harvard.edu/courses/21992/assignments/117081">Clustering</a>
     papers:
   - topic: Graphical Models
     subtopic: HMMs
@@ -129,7 +129,7 @@ lectures:
     papers:
   - topic: 
     subtopic: Reinforcement Learning
-    hw: T5 <a href="https://canvas.harvard.edu/courses/21992/assignments/117082">Probabilistic Models</a> Due
+    hw: T5 <a href="https://canvas.harvard.edu/courses/21992/assignments/117082">Probabilistic Models</a>
     papers:
   - topic: 
     subtopic: POMDPs 

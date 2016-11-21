@@ -1,0 +1,224 @@
+dates: ["Jan. 26", "Jan. 28", "Jan. 29", "Feb. 2", "Feb. 4", "Feb. 9", "Feb. 11", "Feb. 12", "Feb. 16",
+        "Feb. 18", "Feb. 23", "Feb. 25", "Mar. 1", "Mar. 3", "Mar. 8", "Mar. 10", 
+        "Mar. 22", "Mar. 24", "Mar. 25", "Mar. 29", "Mar. 31", "Apr. 5", "Apr. 7", "Apr. 8", "Apr. 12",
+        "Apr. 14", "Apr. 19", "May 3", "May 12"]
+
+
+lectures:
+  - topic: <a href="https://CS287.github.io/Lectures/slides/lecture1.pdf" >Natural Language Processing</a>
+    subtopic: Introduction
+    hw: <a href="https://CS287.github.io/HW1/HW1.pdf" >HW1</a> (<a href="https://github.com/CS287/HW1" >Repo</a>) (<a href="https://inclass.kaggle.com/c/cs287-hw1/leaderboard">Kaggle</a>)
+    papers:
+      - name: "Manning (2016)"
+        cite: "manning2016computational"
+  - topic: Text Classification
+    subtopic: <a href="https://CS287.github.io/Lectures/slides/lecture2-textclassification.pdf" >Background and Naive Bayes</a>
+
+    papers:
+      - cite: bishop2006pattern
+        name: "Bishop (2006) &sect; 4.2, 4.3"
+      - cite: murphy2012
+        name: "Murphy (2012) &sect; 3.5 "
+      - name: "Wang and Manning (2012)"
+        cite: wang2012baselines
+  - topic:
+    subtopic: Section <a href="http://nbviewer.jupyter.org/urls/cs287.github.io/Lectures/notebooks/TorchTutorial.ipynb" >Torch Notes</a>
+    notes: <a href="http://torch.ch">Torch</a>
+
+  - topic: ""
+    subtopic: <a href="https://CS287.github.io/Lectures/slides/lecture3-lr.pdf" >Multiclass Logistic Regression</a>
+    hw: ""
+    papers:
+      - cite: murphy2012
+        name: "Murphy (2012) &sect; 8.1-8.3 "
+      - cite: berger1996maximum
+        name: "Berger et al (1996)"
+
+  - topic:
+    subtopic: <a href="https://CS287.github.io/Lectures/slides/lecture4-opt.pdf" >Hinge and Optimization</a>
+    hw:
+    notes: YG &sect; 6-6.1, , <a href="https://github.com/torch/optim">optim</a>
+    papers:
+      - cite: bottou2012stochastic
+        name: "Bottou (2012)"
+  - topic: Neural Networks
+    subtopic: <a href="https://CS287.github.io/Lectures/slides/lecture5-nn.pdf" >Tagging  + Bilinear Models</a>
+    hw: <a href="https://CS287.github.io/HW2/HW2.pdf" >HW2</a> (<a href="https://github.com/CS287/HW2" >Repo</a>) (<a href="https://inclass.kaggle.com/c/cs287-hw2/leaderboard">Kaggle</a>)
+    notes: YG &sect; 3, &sect; 4.1-4.5,
+    papers:
+      - name: "Santorini (1990)"
+        cite: "santorini1990part"
+      - name: "Collobert et al (2011)"
+        cite: "collobert2011natural"
+  - topic:
+    subtopic: <a href="https://CS287.github.io/Lectures/slides/lecture6-nn2.pdf" >Neural Networks</a>
+    hw:
+    notes: YG &sect; 5
+    papers:
+  - topic:
+    subtopic: Section <a href="http://nbviewer.jupyter.org/urls/cs287.github.io/Lectures/notebooks/NNTutorial.ipynb" >Torch nn Notes</a>
+    notes: <a href="https://github.com/torch/nn">Torch nn</a>
+
+  - topic:
+    subtopic: <a href="https://CS287.github.io/Lectures/slides/lecture7-wc.pdf"> Word Embeddings </a> (<a href="http://nbviewer.jupyter.org/urls/cs287.github.io/Lectures/notebooks/vectors.ipynb">notebook</a>)
+    hw:
+    notes: YG &sect; 5
+    papers:
+        - name: Mikolov et al. (2013)
+          cite: "mikolovchen"
+        - name: Mnih and Hinton (2008)
+          cite: "mnihhinton"
+
+  - topic: Language Modeling
+    subtopic: <a href="https://CS287.github.io/Lectures/slides/lecture8-lm.pdf">Background </a>
+    hw: 
+    papers:
+        - name: "Chen and Goodman (1999)"
+          cite: "ChenG99"
+        - name: "Heafield (2011)"
+          cite: "heafield2011kenlm"
+  - topic:
+    subtopic: <a href="https://CS287.github.io/Lectures/slides/lecture9-nlm.pdf">Neural Language Models</a>
+    hw:
+    papers:
+        - name: "Bengio et al (2003)"
+          cite: "DBLP:journals/jmlr/BengioDVJ03"
+        - name: "Mnih and Teh (2012)"
+          cite: "MnihT12"
+        - name: "Mnih and Kavukcuoglu (2013)"
+          cite: "DBLP:conf/nips/MnihK13"
+    hw: <a href="https://CS287.github.io/HW3/HW3.pdf" >HW3</a> (<a href="https://github.com/CS287/HW3" >Repo</a>) (<a href="https://inclass.kaggle.com/c/cs287-hw3/leaderboard">Kaggle</a>)
+  - topic:
+    subtopic: <a href="https://CS287.github.io/Lectures/slides/lecture10-conv.pdf">Convolutions</a>
+    hw:
+    notes: YG &sect; 9
+    papers:
+        - name: "Kalchbrenner et al (2014)"
+          cite: "DBLP:conf/acl/KalchbrennerGB14"
+        - name: "Kim (2014)"
+          cite: "DBLP:conf/emnlp/Kim14"
+        - name: "Zeiler and Fergus (2014)"
+          cite: "DBLP:conf/eccv/ZeilerF14"
+  - topic: Midterm
+    subtopic:
+    hw:
+    papers:
+  - topic: Recurrent Neural Networks
+    subtopic: <a href="https://CS287.github.io/Lectures/slides/lecture11-rnn.pdf">Fundamentals</a>
+    hw: <a href="https://CS287.github.io/Projects/projects.pdf">Projects</a> (<a href="https://github.com/cs287/projects/wiki">Wiki</a>)
+    notes: YG &sect; 10
+    papers:
+        - name: "Elman (1990)"
+          cite: "DBLP:journals/cogsci/Elman90"
+        - name: "Mikolov (2012)"
+          cite: "tomavs2012statistical"
+        - name: "Graves et al (2005)"
+          cite: "DBLP:conf/icann/GravesFS05"
+  - topic:
+    subtopic: <a href="https://CS287.github.io/Lectures/slides/lecture12-lstm.pdf">LSTMs and Language Modeling</a>
+    hw: 
+    notes: YG &sect; 11
+    papers:
+        - name: "Hochreiter and Schmidhuber (1997)"
+          cite: "DBLP:journals/neco/HochreiterS97"
+        - name: "Jozefowicz et al. (2015)"
+          cite: "DBLP:conf/icml/JozefowiczZS15"
+        - name: "Chung et al 2014"
+          cite: "DBLP:journals/corr/ChungGCB14"
+        - name: "Karpathy et al (2015)"
+          cite: "DBLP:journals/corr/KarpathyJL15"
+        - name: "Srivastava et al (2015)"
+          cite: "DBLP:journals/corr/SrivastavaGS15"
+  - topic: NLP Applications
+    subtopic: <a href="https://CS287.github.io/Lectures/slides/lecture13-applications.pdf">Applications</a>
+    hw: <a href="https://CS287.github.io/HW4/HW4.pdf">HW4</a> (<a href="https://github.com/CS287/HW4" >Repo</a>) (<a href="https://inclass.kaggle.com/c/cs287-hw4/leaderboard">Kaggle</a>)
+    papers:
+  - topic: Structure and Search
+    subtopic: <a href="https://CS287.github.io/Lectures/slides/lecture14-search.pdf">Background</a>
+    hw: 
+    papers:
+      - name: "Ratnaparkhi (1996)"
+        cite: "ratnaparkhi1996maximum"
+      - cite: murphy2012
+        name: "Murphy (2012) &sect; 17.2, 19.5 "
+  - date: Mar. 29
+    topic: 
+    subtopic: <a href="https://CS287.github.io/Lectures/slides/lecture15-dp.pdf">Viterbi and Structured Perc</a>
+    hw: 
+    papers:
+      - name: "Collins (2002)"
+        cite: "collins2002discriminative"
+
+  - date: Mar. 29
+    subtopic: Section <a href="http://nbviewer.jupyter.org/github/CS287/Lectures/blob/gh-pages/notebooks/ElementRNNTutorial.ipynb" >Torch rnn Notes</a>
+    notes: <a href="https://github.com/Element-Research/rnn">Elements rnn</a>
+    hw: 
+    papers:
+  - topic: 
+    subtopic: <a href="https://CS287.github.io/Lectures/slides/lecture16-crf.pdf">Marginals</a>
+    hw: 
+    papers:
+      - cite: murphy2012
+        name: "Murphy (2012) &sect; 17.4 "
+      - name: "Baum and Petrie (2001)"
+        cite: "baum1966statistical"
+  - topic: 
+    subtopic: <a href="https://CS287.github.io/Lectures/slides/lecture17-crf.pdf">CRF</a>
+    hw: 
+    papers:
+      - name: "Lafferty et al (2001)"
+        cite: "DBLP:conf/icml/LaffertyMP01"
+   
+  - topic: Topics
+    subtopic: <a href="https://CS287.github.io/Lectures/slides/lecture18-smt.pdf">Statistical Machine Translation</a>
+    hw: <a href="https://CS287.github.io/HW5/HW5.pdf">HW5</a> (<a href="https://github.com/CS287/HW5" >Repo</a>) (<a href="https://inclass.kaggle.com/c/cs287-hw5/leaderboard">Kaggle</a>)
+    papers:
+      - cite : "DBLP:journals/coling/BrownPPM94"
+        name : "Brown et al (1994)"
+      - cite : "DBLP:conf/acl/PapineniRWZ02"
+        name : "Papineni et al (2002)"
+  - topic:
+    subtopic: <a href="https://CS287.github.io/Lectures/slides/lecture19-nmt.pdf">Neural Machine Translation
+    hw:
+    papers:
+      - name: "Sutskever et al (2014)"
+        cite: "DBLP:conf/nips/SutskeverVL14"
+      - name: "Bahdanau et al (2015)"
+        cite: "DBLP:journals/corr/BahdanauCB14"
+  - topic: 
+    subtopic: Section <a href="https://CS287.github.io/Lectures/dpnlp.pdf" >DP Notes</a>
+    hw:
+    papers:
+  - topic:  Topic
+    subtopic: <a href="https://CS287.github.io/Lectures/slides/lecture20-qa.pdf">QA1 (Semantic Parsing)</a>
+    hw:
+    papers:
+      - cite: "DBLP:conf/uai/ZettlemoyerC05"
+        name: "Zettlemoyer and Collins (2005)"
+      - cite: "DBLP:journals/aim/FerrucciBCFGKLMNPSW10"
+        name: "Ferrucci et al (2010)"
+  - topic: 
+    subtopic: <a href="https://CS287.github.io/Lectures/slides/lecture21-nqa.pdf">QA2 (Neural)</a>
+    hw:
+    papers:
+      - cite: "DBLP:journals/corr/BordesUCW15"
+        name: "Bordes et al (2015)"
+      - cite: "DBLP:conf/nips/HermannKGEKSB15"
+        name: "Hermann et al (2015)"
+  - date: 
+    topic: <a href="https://CS287.github.io/Lectures/slides/lecture22-final.pdf">Conclusion</a>
+    subtopic: 
+    hw:
+    papers:
+      - cite: "silver2016mastering"
+        name: "Silver et al (2016)"
+  - date: May. 3
+    topic: Final Project
+    subtopic:  Presentations
+    hw:
+    papers:
+  - date: May. 12
+    topic: 
+    subtopic: Projects Due
+    hw:
+    papers:

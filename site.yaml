@@ -35,7 +35,7 @@ lectures:
     papers:
   - topic: Model Selection
     subtopic: Model Selection
-    hw: 
+    hw: T1 Regression due
     papers:
   - topic: 
     subtopic: Bayesian Linear Regression
@@ -43,7 +43,7 @@ lectures:
     papers:
   - topic: 
     subtopic: Model Regularization
-    hw: 
+    hw: P1 Regression due
     papers:
   - topic: Classification
     subtopic: Linear Classification
@@ -59,7 +59,7 @@ lectures:
     papers:
   - topic: 
     subtopic: Neural Networks 2
-    hw: 
+    hw: T2 Classification due
     papers:
   - topic: Margin-Based Models
     subtopic: Max-Margin Classification
@@ -67,7 +67,7 @@ lectures:
     papers:
   - topic: 
     subtopic: Support Vector Machines
-    hw: 
+    hw: P2 Classification due
     papers:
   - topic: 
     subtopic: Midterm 1
@@ -83,7 +83,7 @@ lectures:
     papers:
   - topic: Unsupervised Learning
     subtopic: PCA
-    hw: 
+    hw: T3 SVMs due
     papers:
   - topic: 
     subtopic: Mixture Models, EM
@@ -91,7 +91,7 @@ lectures:
     papers:
   - topic: 
     subtopic: Topic Models
-    hw: 
+    hw: T4 Clustering due
     papers:
   - topic: Graphical Models
     subtopic: HMMs
@@ -99,7 +99,7 @@ lectures:
     papers:
   - topic: 
     subtopic: Bayesian Networks
-    hw: 
+    hw: P3 Unsupervised due
     papers:
   - topic: RL
     subtopic: MDP / Value and Policy Iteration
@@ -107,7 +107,7 @@ lectures:
     papers:
   - topic: 
     subtopic: Reinforcement Learning
-    hw: 
+    hw: T5 Probabilistic Models Due
     papers:
   - topic: 
     subtopic: POMDPs 
@@ -119,6 +119,6 @@ lectures:
     papers:
   - topic: 
     subtopic: Midterm 2
-    hw: 
+    hw: P4 RL Due
     papers:
 

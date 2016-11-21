@@ -90,7 +90,7 @@
         <dd>
           <ul>
 
-            <li><a href="">Syllabus</a></li>
+            <li><a href="syllabus.pdf">Syllabus</a></li>
 
             <li><a href="https://canvas.harvard.edu/courses/21992">Canvas Site</a></li>
             <li><a href="http://www.github.com/cs287/hw_template/">Write-Up Template</a></li>
@@ -135,10 +135,10 @@
         <p class="container">
           Grades are determined by four aspects of the class:
           <ul>
-            <li> Five assignments (50%) </li>
-            <li> In-class exam  (20%) </li>
-            <li> Final project (25%)</li>
-            <li> Class participation (5%)</li>
+            <li> Four Practicals [P] (40%) </li>
+            <li> Five Homeworks [T] (30%) </li>
+            <li> Midterm Exam 1  (15%) </li>
+            <li> Midterm Exam 2  (15%) </li>
           </ul>
         </p>
       </div>

@@ -66,9 +66,12 @@
         <dt>Teaching Assistants</dt>
         <dd>
           <ul>
+            <li>
             {% for ta in tas %}
-            <li>{{ta.name}} <<a href="mailto:{{ta.email}}">{{ta.email}}</a>> </li>
-            {% endfor %}
+            {{ta.name}} <<a href="mailto:{{ta.email}}">{{ta.email}}</a>>
+                <br>
+                {% endfor %}
+            </li>
           </ul>
         </dd>
 

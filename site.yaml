@@ -1,28 +1,28 @@
 tas:
   - name: Shai Szulanski 
-    email: sszulanski@college.harvard.edu
+    email: 
   - name: Jeffrey Ling
-    email: jling@college.harvard.edu
+    email: 
   - name: Samuel Cheng
-    email: samuelcheng@college.harvard.edu
+    email: 
   - name: Ankit Gupta
-    email: ankitgupta@college.harvard.edu
+    email: 
   - name: Aidi Zhang
-    email: aidizhang@college.harvard.edu
+    email: 
   - name: Lily Zhang
-    email: lilyhongzhang@college.harvard.edu
+    email: 
   - name: Frances Ding
-    email: francesding@college.harvard.edu
+    email: 
   - name: Mark Goldstein
-    email: goldstein.mark@gmail.com
+    email: 
   - name: Charles Liu
-    email: charlesliu@college.harvard.edu
+    email: 
   - name: Jeffrey Chang
-    email: jeffreychang@college.harvard.edu
+    email: 
   - name: Fanney Zhu
-    email: fanneyzhu@college.harvard.edu
-  - name: Carl Denton        
-    email: carldenton@college.harvard.edu
+    email: 
+  - name: Christine Hwang
+    email: 
 
 
 dates: ["", "Jan. 24", "Jan. 26", "Jan. 31", "Feb. 2", "Feb. 7", "Feb. 9",  "Feb. 14", "Feb. 16",
@@ -31,16 +31,16 @@ dates: ["", "Jan. 24", "Jan. 26", "Jan. 31", "Feb. 2", "Feb. 7", "Feb. 9",  "Feb
 
 
 ohs:
-  - time: Mon 6-8pm
-    location: MD 119
   - time: Tue 8-10pm
-    location: Eliot DH
+    location: MD 
   - time: Wed 9-11pm
     location: Quincy DH
   - time: Thu 8-10pm
     location: Currier DH
-  - time: Sun 8-10pm
-    location: Piazza
+  - time: Thu 8-10pm
+    location: Eliot DH
+  - time: Fri 10-12pm
+    location: MD 119
            
 lectures:
   - topic: <a href="https://CS287.github.io/Lectures/slides/lecture1.pdf" >Machine Learning</a>

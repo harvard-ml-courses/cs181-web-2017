@@ -55,7 +55,7 @@
           <dt>Instructors</dt>
           <dd> <ul><li>David Parkes <<a>parkes@eecs.harvard.edu</a>></li>
               <li>Alexander "Sasha" Rush <<a>srush@seas.harvard.edu</a>> <br>
-                  OH: Wed 1-4, MD 217 (<a href="http://tinyurl.com/srush-schedule">reserve</a>)</dd>
+                  OH: Wed 2:30-4, MD 217 (<a href="http://tinyurl.com/srush-schedule">reserve</a>)</dd>
               </li> 
           </dd>
           
@@ -68,9 +68,7 @@
           <ul>
             <li>
             {% for ta in tas %}
-            {{ta.name}} <<a href="mailto:{{ta.email}}">{{ta.email}}</a>>
-                <br>
-                {% endfor %}
+            {{ta.name}},{% endfor %} and Carl Denton
             </li>
           </ul>
         </dd>

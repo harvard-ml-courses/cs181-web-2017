@@ -55,7 +55,7 @@ lectures:
     subtopic: Linear Regression 2
     hw: 
     papers:
-  - topic: Model Selection
+  - topic: Model Regularization
     subtopic: Model Selection
     hw: T1 <a href="https://canvas.harvard.edu/courses/21992/assignments/117075">Regression</a>
     papers:
@@ -63,13 +63,9 @@ lectures:
     subtopic: Bayesian Linear Regression
     hw: 
     papers:
-  - topic: 
-    subtopic: Model Regularization
-    hw: P1 <a href="https://canvas.harvard.edu/courses/21992/assignments/117077">Regression</a> (<a href="https://inclass.kaggle.com/c/cs181-regression-practical">Kaggle</a>) 
-    papers:
   - topic: Classification
     subtopic: Linear Classification
-    hw: 
+    hw: P1 <a href="https://canvas.harvard.edu/courses/21992/assignments/117077">Regression</a> (<a href="https://inclass.kaggle.com/c/cs181-regression-practical">Kaggle</a>) 
     papers:
   - topic: 
     subtopic: Probabilistic Classification
@@ -81,14 +77,18 @@ lectures:
     papers:
   - topic: 
     subtopic: Neural Networks 2
-    hw: T2 <a href="https://canvas.harvard.edu/courses/21992/assignments/117078">Classification</a>
+    hw: 
     papers:
   - topic: Margin-Based Models
-    subtopic: Max-Margin Classification
-    hw: 
+    subtopic: Max-Margin Classification 
+    hw: T2 <a href="https://canvas.harvard.edu/courses/21992/assignments/117078">Classification</a>
     papers:
   - topic: 
     subtopic: Support Vector Machines
+    hw: 
+    papers:
+  - topic: 
+    subtopic: Deep Learning
     hw: P2 <a href="https://canvas.harvard.edu/courses/21992/assignments/117079">Classification</a> (<a href="https://inclass.kaggle.com/c/cs-181-classification-practical">Kaggle</a>)
     papers:
   - topic: 
@@ -100,19 +100,19 @@ lectures:
     hw: 
     papers:
   - topic: 
-    subtopic: Hierarchical Clustering
-    hw: 
-    papers:
-  - topic: Unsupervised Learning
-    subtopic: PCA
-    hw: T3 <a href="https://canvas.harvard.edu/courses/21992/assignments/117080">SVMs</a>
-    papers:
-  - topic: 
     subtopic: Mixture Models, EM
     hw: 
     papers:
   - topic: 
     subtopic: Topic Models
+    hw: T3 <a href="https://canvas.harvard.edu/courses/21992/assignments/117080">SVMs</a>
+    papers:
+  - topic: 
+    subtopic: PCA
+    hw: 
+    papers:
+  - topic: 
+    subtopic: Hierarchical Clustering
     hw: T4 <a href="https://canvas.harvard.edu/courses/21992/assignments/117081">Clustering</a>
     papers:
   - topic: Graphical Models
@@ -132,7 +132,7 @@ lectures:
     hw: T5 <a href="https://canvas.harvard.edu/courses/21992/assignments/117082">Probabilistic Models</a>
     papers:
   - topic: 
-    subtopic: POMDPs 
+    subtopic: Deep RL 
     hw: 
     papers:
   - topic: 

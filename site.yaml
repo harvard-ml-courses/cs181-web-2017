@@ -43,7 +43,7 @@ ohs:
     location: MD 119
            
 lectures:
-  - topic: <a href="https://CS287.github.io/Lectures/slides/lecture1.pdf" >Machine Learning</a>
+  - topic: Machine Learning
     subtopic: Supervised Learning
     hw: 
     papers:

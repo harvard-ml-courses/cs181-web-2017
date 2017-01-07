@@ -139,10 +139,10 @@
         <p class="container">
           Grades are determined by four aspects of the class:
           <ul>
-            <li> Four Practicals [P] (40%) </li>
+            <li> Four Practicals [P] (30%) </li>
             <li> Five Homeworks [T] (30%) </li>
-            <li> Midterm Exam 1  (15%) </li>
-            <li> Midterm Exam 2  (15%) </li>
+            <li> Midterm Exam 1  (20%) </li>
+            <li> Midterm Exam 2  (20%) </li>
           </ul>
         </p>
       </div>

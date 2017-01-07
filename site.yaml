@@ -31,16 +31,16 @@ dates: ["", "Jan. 24", "Jan. 26", "Jan. 31", "Feb. 2", "Feb. 7", "Feb. 9",  "Feb
 
 
 ohs:
-  - time: Tue 8-10pm
-    location: MD 
-  - time: Wed 9-11pm
+  - time: Tue 7-9pm
     location: Quincy DH
-  - time: Thu 8-10pm
-    location: Currier DH
-  - time: Thu 8-10pm
-    location: Eliot DH
-  - time: Fri 10-12pm
+  - time: Wed 5-7pm
     location: MD 119
+  - time: Thu 7-9pm
+    location: Currier DH
+  - time: Thu 7-9pm
+    location: Eliot DH
+  - time: Fri 10-Noon
+    location: MD Lounge
            
 lectures:
   - topic: Machine Learning

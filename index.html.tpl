@@ -84,7 +84,9 @@
             {% endfor %}
           </ul>
         </dd>
-
+        <dt>References</dt>
+          <dd><ul><li> Bishop <a href="http://www.springer.com/us/book/9780387310732">Pattern Recognition and Machine Learning</a> </li></ul>
+          </dd>
 
         <dt>Section Times</dt>
           <dd><ul><li>TBD</li></ul>

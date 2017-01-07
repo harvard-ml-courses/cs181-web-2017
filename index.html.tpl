@@ -117,7 +117,7 @@
 
 
       <table class="table table-hover">
-        <tr><th>Date</th> <th>Area</th> <th>Topic</th><th>Readings</th> <th>Notes </th> <th>Assignment</th></tr>
+        <tr><th>Date</th> <th>Area</th> <th>Topic</th><th>Readings</th> <th>Notes </th> <th>Assignment (Fri 5pm)</th></tr>
         {% for lecture in lectures %}
         <tr>
           <td> {{dates[loop.index]}} </td> <td> {{lecture.topic | default("",true)}} </td>

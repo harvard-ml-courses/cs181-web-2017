@@ -124,7 +124,6 @@
           <td> {{lecture.subtopic|default("", true)}}</td>
           <td>
             {{lecture.papers|default("", true)}}
-
           </td>
           <td> {{lecture.notes}}</td>
           <td> {{lecture.hw | default("",true)}}</td>

@@ -123,11 +123,8 @@
           <td> {{dates[loop.index]}} </td> <td> {{lecture.topic | default("",true)}} </td>
           <td> {{lecture.subtopic|default("", true)}}</td>
           <td>
-            {% if lecture.papers %}
-            {% for paper in lecture.papers %}
-            <div>{{paper}}</div>
-            {% endfor %}
-            {% endif %}
+            {{lecture.papers}}
+
           </td>
           <td> {{lecture.notes}}</td>
           <td> {{lecture.hw | default("",true)}}</td>

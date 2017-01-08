@@ -123,7 +123,7 @@
           <td> {{dates[loop.index]}} </td> <td> {{lecture.topic | default("",true)}} </td>
           <td> {{lecture.subtopic|default("", true)}}</td>
           <td>
-            {{lecture.papers}}
+            {{lecture.papers|default("", true)}}
 
           </td>
           <td> {{lecture.notes}}</td>

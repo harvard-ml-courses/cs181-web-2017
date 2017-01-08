@@ -50,7 +50,7 @@ lectures:
   - topic: Regression
     subtopic: Linear Regression 1
     hw: 
-    papers:
+    papers: Bishop &sect; 2.3, 3.1
   - topic: 
     subtopic: Linear Regression 2
     hw: 
@@ -62,15 +62,15 @@ lectures:
   - topic: 
     subtopic: Bayesian Linear Regression
     hw: 
-    papers:
+    papers: Bishop &sect; 2.3, 3.1
   - topic: Classification
     subtopic: Linear Classification
     hw: P1 <a href="https://canvas.harvard.edu/courses/21992/assignments/117077">Regression</a> (<a href="https://inclass.kaggle.com/c/cs181-regression-practical">Kaggle</a>) 
-    papers:
+    papers: Bishop &sect; 4.1 
   - topic: 
     subtopic: Probabilistic Classification
     hw: 
-    papers:
+    papers: Bishop &sect; 4.2, 4.3
   - topic: Neural Networks
     subtopic: Neural Networks 1
     hw: 

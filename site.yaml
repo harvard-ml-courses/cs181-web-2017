@@ -65,7 +65,7 @@ lectures:
     papers: Bishop &sect; 3.3
   - topic: Classification
     subtopic: <a href="lectures/06-lectures-class.pdf">Linear Classification</a>
-    hw: P1 Regression (<a href="https://canvas.harvard.edu/courses/21992/assignments/117077">submit</a>| <a href="https://inclass.kaggle.com/c/cs181-regression-practical">Kaggle</a>) 
+    hw: P1 <a href="hw/practical1-regression.pdf">Regression</a> (<a href="https://canvas.harvard.edu/courses/21992/assignments/117077">submit</a> | <a href="https://inclass.kaggle.com/c/cs181-regression-practical">kaggle</a>) 
     papers: Bishop &sect; 4.1, Sklearn &sect;  15.9
   - topic: 
     subtopic: <a href="lectures/07-lectures-class.pdf">Probabilistic Classification</a>
@@ -81,7 +81,7 @@ lectures:
     papers: Bishop &sect; 5.3
   - topic: Margin-Based Models
     subtopic: <a href="lectures/10-lectures-margin.pdf">Margin-Based Classification</a>
-    hw: T2 <a href="https://canvas.harvard.edu/courses/21992/assignments/117078">Classification</a>
+    hw: T2 <a href="hw/homework2-classification.pdf">Classification</a> (<a href="https://canvas.harvard.edu/courses/21992/assignments/117078">submit</a>)
     papers:
   - topic: 
     subtopic: <a href="lectures/11-lectures-svm.pdf">Support Vector Machines</a>

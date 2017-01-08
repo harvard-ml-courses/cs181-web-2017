@@ -103,7 +103,8 @@
             <li><a href="syllabus.pdf">Syllabus</a></li>
             <li><a href="https://classroom.github.com/assignment-invitations/9356a5cc64112274d9e93f77cd214d93">GitHub Classrooms</a></li>
             <li><a href="https://canvas.harvard.edu/courses/21992">Canvas Site</a></li>
-            <li><a href="http://www.github.com/cs287/hw_template/">Write-Up Template</a></li>
+            <li><a href="https://harvard-ml-courses.github.io/cs181-s17-homeworks/guidelines/practical-logistics.pdf">Practical Guidelines</a></li>
+            <li><a href="https://harvard-ml-courses.github.io/cs181-s17-homeworks/guidelines/practical-template.pdf">Practical Template</a></li>
           </ul>
         </dd>
 
@@ -160,20 +161,6 @@
 
 
 
-      <div class="row container">
-        <h3 id="cites">Citations</h3>
-
-        <table id="pubTable" class="table table-hover"></table>
-        <script>
-          $(function(){
-          bibtexify("page.bib", "pubTable", {"visualization":false});}
-          );
-        </script>
-
-
-
-
-      </div>
 
     </div> <!-- /container -->
 

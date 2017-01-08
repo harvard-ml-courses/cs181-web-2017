@@ -57,7 +57,7 @@ lectures:
     papers: Bishop &sect; 2.3, 3.1
   - topic: Model Regularization
     subtopic: <a href="lectures/04-lectures-model.pdf">Model Selection</a>
-    hw: T1 <a href="hw/homework1-regression.pdf">Regression</a> (<a href="https://canvas.harvard.edu/courses/21992/assignments/117075">submit</a>)
+    hw: T1 <a href="https://harvard-ml-courses.github.io/cs181-s17-homeworks/h1/homework1-regression.pdf">Regression</a> (<a href="https://canvas.harvard.edu/courses/21992/assignments/117075">submit</a>)
     papers:
   - topic: 
     subtopic: <a href="lectures/05-lectures-blr.pdf">Bayesian Linear Regression</a>

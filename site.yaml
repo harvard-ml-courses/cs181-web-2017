@@ -57,7 +57,7 @@ lectures:
     papers: Bishop &sect; 2.3, 3.1
   - topic: Model Regularization
     subtopic: <a href="lectures/04-lectures-model.pdf">Model Selection</a>
-    hw: T1 <a href="https://canvas.harvard.edu/courses/21992/assignments/117075">Regression</a>
+    hw: T1 <a href="hw/homework1-regression.pdf">Regression</a> (<a href="https://canvas.harvard.edu/courses/21992/assignments/117075">submit</a>)
     papers:
   - topic: 
     subtopic: <a href="lectures/05-lectures-blr.pdf">Bayesian Linear Regression</a>
@@ -65,7 +65,7 @@ lectures:
     papers: Bishop &sect; 3.3
   - topic: Classification
     subtopic: <a href="lectures/06-lectures-class.pdf">Linear Classification</a>
-    hw: P1 <a href="https://canvas.harvard.edu/courses/21992/assignments/117077">Regression</a> (<a href="https://inclass.kaggle.com/c/cs181-regression-practical">Kaggle</a>) 
+    hw: P1 Regression (<a href="https://canvas.harvard.edu/courses/21992/assignments/117077">submit</a>| <a href="https://inclass.kaggle.com/c/cs181-regression-practical">Kaggle</a>) 
     papers: Bishop &sect; 4.1, Sklearn &sect;  15.9
   - topic: 
     subtopic: <a href="lectures/07-lectures-class.pdf">Probabilistic Classification</a>

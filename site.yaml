@@ -44,51 +44,51 @@ ohs:
            
 lectures:
   - topic: Machine Learning
-    subtopic: Supervised Learning
+    subtopic: 
     hw: 
     papers:
   - topic: Regression
-    subtopic: Linear Regression 1
+    subtopic: <a href="lectures/02-lectures-lr.pdf">Linear Regression 1</a>
     hw: 
     papers: Bishop &sect; 3.1, Sklearn &sect; 3.1, 18.10
   - topic: 
-    subtopic: Linear Regression 2
+    subtopic: <a href="lectures/03-lectures-lr.pdf">Linear Regression 2</a>
     hw: 
     papers: Bishop &sect; 2.3, 3.1
   - topic: Model Regularization
-    subtopic: Model Selection
+    subtopic: <a href="lectures/04-lectures-model.pdf">Model Selection</a>
     hw: T1 <a href="https://canvas.harvard.edu/courses/21992/assignments/117075">Regression</a>
     papers:
   - topic: 
-    subtopic: Bayesian Linear Regression
+    subtopic: <a href="lectures/05-lectures-blr.pdf">Bayesian Linear Regression</a>
     hw: 
-    papers: Bishop &sect; 2.3, 3.1
+    papers: Bishop &sect; 3.3
   - topic: Classification
-    subtopic: Linear Classification
+    subtopic: <a href="lectures/06-lectures-class.pdf">Linear Classification</a>
     hw: P1 <a href="https://canvas.harvard.edu/courses/21992/assignments/117077">Regression</a> (<a href="https://inclass.kaggle.com/c/cs181-regression-practical">Kaggle</a>) 
-    papers: Bishop &sect; 4.1, &sect; Sklearn 15.9
+    papers: Bishop &sect; 4.1, Sklearn &sect;  15.9
   - topic: 
-    subtopic: Probabilistic Classification
+    subtopic: <a href="lectures/07-lectures-class.pdf">Probabilistic Classification</a>
     hw: 
-    papers: Bishop &sect; 4.2, 4.3, &sect; Sklearn 18.1, 29.24
+    papers: Bishop &sect; 4.2, 4.3, Sklearn &sect;  18.1, 29.24
   - topic: Neural Networks
-    subtopic: Neural Networks 1
+    subtopic: <a href="lectures/08-lectures-nn1.pdf">Neural Networks 1</a>
     hw: 
     papers: Bishop &sect; 5.1-5.2
   - topic: 
-    subtopic: Neural Networks 2
+    subtopic: <a href="lectures/09-lectures-nn2.pdf">Neural Networks 2</a>
     hw: 
     papers: Bishop &sect; 5.3
   - topic: Margin-Based Models
-    subtopic: Max-Margin Classification 
+    subtopic: <a href="lectures/10-lectures-margin.pdf">Margin-Based Classification</a>
     hw: T2 <a href="https://canvas.harvard.edu/courses/21992/assignments/117078">Classification</a>
     papers:
   - topic: 
-    subtopic: Support Vector Machines
+    subtopic: <a href="lectures/11-lectures-svm.pdf">Support Vector Machines</a>
     hw: 
     papers:
   - topic: 
-    subtopic: Deep Learning
+    subtopic: <a href="lectures/12-lectures-deeplearning.pdf">Deep Learning</a>
     hw: P2 <a href="https://canvas.harvard.edu/courses/21992/assignments/117079">Classification</a> (<a href="https://inclass.kaggle.com/c/cs-181-classification-practical">Kaggle</a>)
     papers: 
   - topic: 

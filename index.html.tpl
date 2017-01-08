@@ -125,7 +125,7 @@
           <td>
             {% if lecture.papers %}
             {% for paper in lecture.papers %}
-            <div><a href="#cite_{{paper.cite}}">{{paper.name}}</a></div>
+            <div>{{paper}}</div>
             {% endfor %}
             {% endif %}
           </td>

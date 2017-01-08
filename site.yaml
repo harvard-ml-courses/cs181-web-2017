@@ -129,7 +129,7 @@ lectures:
     papers:
   - topic: 
     subtopic: Reinforcement Learning
-    hw: T5 <a href="">Probabilistic Models</a> (<a href="https://canvas.harvard.edu/courses/21992/assignments/117082">submit</a>)
+    hw: T5 <a href="">EM</a> (<a href="https://canvas.harvard.edu/courses/21992/assignments/117082">submit</a>)
     papers:
   - topic: 
     subtopic: Deep RL 
@@ -141,6 +141,6 @@ lectures:
     papers:
   - topic: 
     subtopic: Midterm 2
-    hw: P4 RL (<a href="https://canvas.harvard.edu/courses/21992/assignments/117084">submit</a> | <a href="https://inclass.kaggle.com/c/cs-181-rl-practical">kaggle</a>)
+    hw: P4 <a href="">RL</a> (<a href="https://canvas.harvard.edu/courses/21992/assignments/117084">submit</a> | <a href="https://inclass.kaggle.com/c/cs-181-rl-practical">kaggle</a>)
     papers:
 

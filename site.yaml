@@ -89,7 +89,7 @@ lectures:
     papers:
   - topic: 
     subtopic: <a href="lectures/12-lectures-deeplearning.pdf">Deep Learning</a>
-    hw: P2 <a href="https://canvas.harvard.edu/courses/21992/assignments/117079">Classification</a> (<a href="https://inclass.kaggle.com/c/cs-181-classification-practical">Kaggle</a>)
+    hw: P2 <a href="hw/practical2-classification">Classification</a> (<a href="https://canvas.harvard.edu/courses/21992/assignments/117079">submit</a> | <a href="https://inclass.kaggle.com/c/cs-181-classification-practical">kaggle</a>)
     papers: 
   - topic: 
     subtopic: Midterm 1

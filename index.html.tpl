@@ -53,9 +53,11 @@
         <!-- <div class="panel-body"> -->
         <dl>
           <dt>Instructors</dt>
-          <dd> <ul><li>David Parkes <<a>parkes@eecs.harvard.edu</a>></li>
+          <dd> <ul><li>David Parkes <<a>parkes@eecs.harvard.edu</a>><br>
+OH: Thur 2:30-3:30, 5.15-5.45p, MD 229 (starting 2/2)<br>
+Tue 11:30-12:30, Thur 11:30-12:30 (week 1/23)</li>
               <li>Alexander "Sasha" Rush <<a>srush@seas.harvard.edu</a>> <br>
-                  OH: Wed 2:30-4, MD 217 (<a href="http://tinyurl.com/srush-schedule">reserve</a>)</dd>
+                  OH: Wed 2:30-4, MD 217 </dd>
               </li> 
           </dd>
           

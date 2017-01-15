@@ -53,16 +53,22 @@
         <!-- <div class="panel-body"> -->
         <dl>
           <dt>Instructors</dt>
-          <dd> <ul><li>David Parkes <<a>parkes@eecs.harvard.edu</a>><br>
+          <dd> <ul><li>David Parkes <br>
 OH: Thur 2:30-3:30, 5.15-5.45p, MD 229 (starting 2/2)<br>
 Tue 11:30-12:30, Thur 11:30-12:30 (week 1/23)</li>
-              <li>Alexander "Sasha" Rush <<a>srush@seas.harvard.edu</a>> <br>
-                  OH: Wed 2:30-4, MD 217 </dd>
+              <li>Alexander "Sasha" Rush  <br>
+                  OH: Wed 2:30-4, MD 217 
               </li> 
+<li>Email: Piazza preferred. 
+<br> Use course email alias (to instructors only) 
+as necessary (TBD)
+</li></ul>
           </dd>
           
         <dt>Lectures</dt>
-        <dd> <ul><li>Tues/Thurs 10:00-11:30am </li></ul></dd>
+        <dd> <ul><li>Tues/Thurs 10:00-11:30am </li>
+<li><a href="http://map.harvard.edu/?bld=04240&level=9">Geological Museum 100</a> (just across Oxford St. from Pierce)
+</li></ul></dd>
 
         
         <dt>Teaching Assistants</dt>
@@ -95,7 +101,7 @@ Tue 11:30-12:30, Thur 11:30-12:30 (week 1/23)</li>
           </dd>
 
         <dt>Section Times</dt>
-          <dd><ul><li>TBD</li></ul>
+          <dd><ul><li>Mon, Wed 4-6p: MD 119</li></ul>
           </dd>
 
         <dt>Links</dt>

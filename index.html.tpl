@@ -38,7 +38,6 @@
         </div>
         <div class="panel-footer">
           <ul class="nav nav-pills invert-colors">
-            <li><a href="#announcements">Announcements</a></li>
             <li><a href="#schedule">Schedule</a></li>
             <li><a href="#grading">Grading</a></li>
             <!-- <li><a href="#faq">FAQ</a></li> -->
@@ -82,7 +81,9 @@ as necessary (TBD)
         </dd>
 
         <dt>Forum</dt>
-          <dd><ul><li><a href="https://piazza.com/harvard/spring2017/cs181">Piazza </a></li></ul></dd>
+          <dd><ul>
+<li>All announcements will be made on Piazza
+<li><a href="https://piazza.com/harvard/spring2017/cs181">Piazza </a></li></ul></dd>
 
         <dt>Office Hours</dt>
         <dd>

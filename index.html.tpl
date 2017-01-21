@@ -58,9 +58,7 @@ Tue 11:30-12:30, Thur 11:30-12:30 (week 1/23)</li>
               <li>Alexander "Sasha" Rush  <br>
                   OH: Wed 2:30-4, MD 217 
               </li> 
-<li>Email: Piazza preferred. 
-<br> Use course email alias (to instructors only) 
-as necessary (TBD)
+<li>Email: Piazza preferred or cs181 at seas.harvard.edu  (instructors only) 
 </li></ul>
           </dd>
           
@@ -80,9 +78,8 @@ as necessary (TBD)
           </ul>
         </dd>
 
-        <dt>Forum</dt>
+        <dt>Forum and Announcements</dt>
           <dd><ul>
-<li>All announcements will be made on Piazza
 <li><a href="https://piazza.com/harvard/spring2017/cs181">Piazza </a></li></ul></dd>
 
         <dt>Office Hours</dt>
@@ -102,7 +99,7 @@ as necessary (TBD)
           </dd>
 
         <dt>Section Times</dt>
-          <dd><ul><li>Mon, Wed 4-6p: MD 119</li></ul>
+          <dd><ul><li>Mon, Wed 4-5,6-6p: MD 119</li></ul>
           </dd>
 
         <dt>Links</dt>

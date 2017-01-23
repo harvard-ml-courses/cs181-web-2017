@@ -33,7 +33,7 @@ dates: ["", "Jan. 24", "Jan. 26", "Jan. 31", "Feb. 2", "Feb. 7", "Feb. 9",  "Feb
 ohs:
   - time: Tue 8-10pm
     location: Quincy DH
-  - time: Wed 5-7pm
+  - time: Wed 6-8pm
     location: MD 119
   - time: Thu 8-10pm
     location: Currier DH
@@ -53,19 +53,19 @@ lectures:
     papers: Bishop &sect; 3.1, Sklearn &sect; 3.1, 18.10
   - topic: 
     subtopic: <a href="lectures/03-lectures-lr.pdf">Linear Regression 2</a>
-    hw: 
+    hw: T1 <a href="https://harvard-ml-courses.github.io/cs181-s17-homeworks/h1/homework1-regression.pdf">Regression</a> (<a href="https://canvas.harvard.edu/courses/21992/assignments/117075">submit</a>)
     papers: Bishop &sect; 2.3, 3.1
   - topic: Model Regularization
     subtopic: <a href="lectures/04-lectures-model.pdf">Model Selection</a>
-    hw: T1 <a href="https://harvard-ml-courses.github.io/cs181-s17-homeworks/h1/homework1-regression.pdf">Regression</a> (<a href="https://canvas.harvard.edu/courses/21992/assignments/117075">submit</a>)
+    hw: 
     papers:
   - topic: 
     subtopic: <a href="lectures/05-lectures-blr.pdf">Bayesian Linear Regression</a>
-    hw: 
+    hw: P1 <a href="hw/practical1-regression.pdf">Regression</a> (<a href="https://canvas.harvard.edu/courses/21992/assignments/117077">submit</a> | <a href="https://inclass.kaggle.com/c/cs181-regression-practical">kaggle</a>) 
     papers: Bishop &sect; 3.3
   - topic: Classification
     subtopic: <a href="lectures/06-lectures-class.pdf">Linear Classification</a>
-    hw: P1 <a href="hw/practical1-regression.pdf">Regression</a> (<a href="https://canvas.harvard.edu/courses/21992/assignments/117077">submit</a> | <a href="https://inclass.kaggle.com/c/cs181-regression-practical">kaggle</a>) 
+    hw: 
     papers: Bishop &sect; 4.1, Sklearn &sect;  15.9
   - topic: 
     subtopic: <a href="lectures/07-lectures-class.pdf">Probabilistic Classification</a>
@@ -77,19 +77,19 @@ lectures:
     papers: Bishop &sect; 5.1-5.2
   - topic: 
     subtopic: <a href="lectures/09-lectures-nn2.pdf">Neural Networks 2</a>
-    hw: 
+    hw: T2 <a href="hw/homework2-classification.pdf">Classification</a> (<a href="https://canvas.harvard.edu/courses/21992/assignments/117078">submit</a>)
     papers: Bishop &sect; 5.3
   - topic: Margin-Based Models
     subtopic: <a href="lectures/10-lectures-margin.pdf">Margin-Based Classification</a>
-    hw: T2 <a href="hw/homework2-classification.pdf">Classification</a> (<a href="https://canvas.harvard.edu/courses/21992/assignments/117078">submit</a>)
+    hw: 
     papers:
   - topic: 
     subtopic: <a href="lectures/11-lectures-svm.pdf">Support Vector Machines</a>
-    hw: 
+    hw: P2 <a href="hw/practical2-classification">Classification</a> (<a href="https://canvas.harvard.edu/courses/21992/assignments/117079">submit</a> | <a href="https://inclass.kaggle.com/c/cs-181-classification-practical">kaggle</a>)
     papers:
   - topic: Topics 1
     subtopic: <a href="lectures/12-lectures-deeplearning.pdf">Deep Learning</a>
-    hw: P2 <a href="hw/practical2-classification">Classification</a> (<a href="https://canvas.harvard.edu/courses/21992/assignments/117079">submit</a> | <a href="https://inclass.kaggle.com/c/cs-181-classification-practical">kaggle</a>)
+    hw: 
     papers: 
   - topic: 
     subtopic: Midterm 1
@@ -101,35 +101,35 @@ lectures:
     papers:
   - topic: 
     subtopic: Mixture Models, EM
-    hw: 
-    papers:
-  - topic: 
-    subtopic: Topic Models
     hw: T3 <a href="hw/homework3-svm.pdf">SVMs</a> (<a href="https://canvas.harvard.edu/courses/21992/assignments/117080">submit</a>)
     papers:
   - topic: 
-    subtopic: Dimensionality Reduction
+    subtopic: Topic Models
     hw: 
+    papers:
+  - topic: 
+    subtopic: Dimensionality Reduction
+    hw: T4 <a href="">Clustering</a> (<a href="https://canvas.harvard.edu/courses/21992/assignments/117081">submit</a>)
     papers:
   - topic: Graphical Models
     subtopic: HMMs
-    hw: T4 <a href="">Clustering</a> (<a href="https://canvas.harvard.edu/courses/21992/assignments/117081">submit</a>)
+    hw: 
     papers:
   - topic: 
     subtopic: Bayesian Networks
-    hw: 
+    hw: P3 <a href="">Unsupervised</a> (<a href="https://canvas.harvard.edu/courses/21992/assignments/117083">submit</a> | <a href="https://inclass.kaggle.com/c/cs-181-unsupervised-practical">kaggle</a>) 
     papers:
   - topic: 
     subtopic: Inference
-    hw: P3 <a href="">Unsupervised</a> (<a href="https://canvas.harvard.edu/courses/21992/assignments/117083">submit</a> | <a href="https://inclass.kaggle.com/c/cs-181-unsupervised-practical">kaggle</a>) 
+    hw: 
     papers:
   - topic: Reinforcement Learning
     subtopic: MDP / Value and Policy Iteration
-    hw: 
+    hw: T5 <a href="">EM</a> (<a href="https://canvas.harvard.edu/courses/21992/assignments/117082">submit</a>)
     papers:
   - topic: 
     subtopic: Reinforcement Learning
-    hw: T5 <a href="">EM</a> (<a href="https://canvas.harvard.edu/courses/21992/assignments/117082">submit</a>)
+    hw: 
     papers:
   - topic: 
     subtopic: Deep RL 

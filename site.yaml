@@ -43,7 +43,7 @@ ohs:
     location: MD First Floor Lounge (one floor above ground!)
            
 lectures:
-  - topic: Machine Learning
+  - topic: <a href="lectures/01-lectures-intro.pdf">Machine Learning</a>
     subtopic: 
     hw: 
     papers:

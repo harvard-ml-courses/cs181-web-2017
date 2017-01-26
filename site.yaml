@@ -54,7 +54,7 @@ lectures:
     papers: Bishop &sect; 3.1, Sklearn &sect; 3.1, 18.10
     section:
   - topic: 
-    subtopic: Section 0 <a href="https://harvard-ml-courses.github.io/cs181-s17-homeworks/h1/homework1-regression.pdf">Math Review</a>
+    subtopic: Section 0  Math Review
     hw: 
     papers: 
     section: 

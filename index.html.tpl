@@ -125,7 +125,7 @@ Tue 11:30-12:30, Thur 11:30-12:30 (week 1/23)</li>
 
 
       <table class="table table-hover">
-        <tr><th>Date</th> <th>Area</th> <th>Topic</th><th>Readings</th>  <th>Assignment (DUE: Fri 5pm of this week)</th></tr>
+        <tr><th>Date</th> <th>Area</th> <th>Topic</th><th>Readings</th><th>Assignment (DUE: Fri 5pm of this week)</th></tr>
         {% for lecture in lectures %}
         <tr>
           <td> {{dates[loop.index]}} </td> <td> {{lecture.topic | default("",true)}} </td>
@@ -133,6 +133,7 @@ Tue 11:30-12:30, Thur 11:30-12:30 (week 1/23)</li>
           <td>
             {{lecture.papers|default("", true)}}
           </td>
+          
           <td> {{lecture.hw | default("",true)}}</td>
         </tr>
         {% endfor %}

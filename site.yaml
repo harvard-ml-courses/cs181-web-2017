@@ -25,7 +25,7 @@ tas:
     email: 
 
 
-dates: ["","Jan. 22", "Jan. 24", "Jan. 26", "Jan. 27", "Jan. 30", "Jan. 31", "Feb. 2", "Feb. 7", "Feb. 9",  "Feb. 14", "Feb. 16",
+dates: ["", "Jan. 24", "Jan. 26", "Jan. 27", "Jan. 30", "Jan. 31", "Feb. 2", "Feb. 7", "Feb. 9",  "Feb. 14", "Feb. 16",
         "Feb. 21", "Feb. 23", "Feb. 28", "Mar. 2", "Mar. 7", "Mar. 9", "Mar. 21", 
         "Mar. 23", "Mar. 28", "Mar. 30", "Apr. 4", "Apr. 6", "Apr. 11", "Apr. 13", "Apr. 18", "Apr. 20", "Apr. 25"]
 
@@ -43,11 +43,6 @@ ohs:
     location: MD First Floor Lounge (one floor above ground!)
 
 lectures:
-  - topic: <a href="lectures/Style_Guide.pdf">Style Guide</a>
-    subtopic: 
-    hw: 
-    papers:
-    section:
   - topic: <a href="lectures/01-lectures-intro.pdf">Machine Learning</a>
     subtopic: 
     hw: 

@@ -119,6 +119,7 @@ Tue 11:30-12:30, Thur 11:30-12:30 (week 1/23)</li>
             <li><a href="https://canvas.harvard.edu/courses/21992">Canvas Site</a></li>
             <li><a href="https://harvard-ml-courses.github.io/cs181-s17-homeworks/guidelines/practical-logistics.pdf">Practical Guidelines</a></li>
             <li><a href="https://harvard-ml-courses.github.io/cs181-s17-homeworks/guidelines/practical-template.pdf">Practical Template</a></li>
+            <li><a href="lectures/Style_Guide.pdf">Style Guide</a></li>
           </ul>
         </dd>
 

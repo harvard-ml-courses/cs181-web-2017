@@ -99,7 +99,7 @@ Tue 11:30-12:30, Thur 11:30-12:30 (week 1/23)</li>
           </dd>
 
         <dt>Section Times</dt>
-          <dd><ul><li>Mon, Wed 4-5,6-6p: MD 119</li>
+          <dd><ul><li>Mon, Wed 4-5,5-6p: MD 119</li>
 <li>Bonus section (math background): Fri Jan 27, time TBD</li></ul>
           </dd>
 

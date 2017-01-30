@@ -59,7 +59,7 @@ lectures:
     papers: 
     section: 
   - topic: 
-    subtopic: Section 1
+    subtopic: Section 1 <a href="sections/section01-s17-student.pdf">Linear Regression</a>
     hw: 
     papers: 
     section: 

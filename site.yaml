@@ -72,7 +72,7 @@ lectures:
     hw: T1 <a href="https://harvard-ml-courses.github.io/cs181-s17-homeworks/h1/homework1-regression.pdf">Regression</a> (<a href="https://canvas.harvard.edu/courses/21992/assignments/117075">submit</a>)
     papers: Bishop &sect; 2.3, 3.1
     section:
-    demos: 
+    demos: <a href = "https://github.com/harvard-ml-courses/cs181-demos/blob/master/Gaussian.ipynb"> Gaussian </a>
   - topic: Model Regularization
     subtopic: <a href="lectures/04-lectures-model.pdf">Model Selection</a>
     hw: 

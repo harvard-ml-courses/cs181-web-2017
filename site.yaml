@@ -121,14 +121,14 @@ lectures:
     papers:
     section:
     demos: 
-  - topic: Topics 1
-    subtopic: <a href="lectures/12-lectures-deeplearning.pdf">Deep Learning</a>
+  - topic: 
+    subtopic: Midterm 1
     hw: 
     papers: 
     section:
     demos: 
-  - topic: 
-    subtopic: Midterm 1
+  - topic: Topics 1
+    subtopic: <a href="lectures/12-lectures-deeplearning.pdf">Deep Learning</a>
     hw: 
     papers:
     section:

@@ -62,7 +62,7 @@ lectures:
     section:
     demos:  
   - topic: 
-    subtopic: Section 1 <a href="sections/section01-s17-student.pdf">Linear Regression</a>
+    subtopic: Section 1 <a href="sections/section01-s17-student.pdf">Linear Reg (<a href="sections/section01-s17-final.pdf">sol</a>) </a>
     hw: 
     papers: 
     section:

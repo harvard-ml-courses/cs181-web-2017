@@ -1,5 +1,5 @@
-jinja2 index.html.tpl  site.yaml > index.html
-# j2 index.html.tpl site.yaml > index.html
+# jinja2 index.html.tpl  site.yaml > index.html
+j2 index.html.tpl site.yaml > index.html
 git add .
 git commit -a -m .
 git push origin gh-pages

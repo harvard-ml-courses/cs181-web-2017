@@ -74,7 +74,7 @@ lectures:
     section:
     demos: <a href = "https://github.com/harvard-ml-courses/cs181-demos/blob/master/Gaussian.ipynb"> Gaussian </a> <a href = "https://github.com/harvard-ml-courses/cs181-demos/blob/master/BasisRegression.ipynb"> BasisRegression </a> 
   - topic: Model Regularization
-    subtopic: <a href="lectures/04-lectures-model.pdf">Model Selection</a>
+    subtopic: <a href="lectures/04-lectures-model-tmp.pdf">Model Selection</a>
     hw: 
     papers:
     section:

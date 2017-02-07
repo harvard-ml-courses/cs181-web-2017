@@ -82,7 +82,7 @@ lectures:
     section:
     demos: 
   - topic: 
-    subtopic: Section 2 <a href="sections/section02-s17-student.pdf">Model Selection</a> <a href=https://github.com/harvard-ml-courses/cs181-demos/blob/master/sklearn-demo.ipynb>(ipynb)</a> 
+    subtopic: Section 2 <a href="sections/section02-s17-student.pdf">Model Selection</a> <a href=https://github.com/harvard-ml-courses/cs181-demos/blob/master/sklearn-demo.ipynb>(demo)</a> 
     hw: 
     papers:
     section:

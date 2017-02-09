@@ -86,7 +86,7 @@ lectures:
     section:
     demos: 
   - topic: 
-    subtopic: Section 2 <a href="sections/section02-s17-student.pdf">Model Selection</a> 
+    subtopic: Section 2 <a href="sections/section02-s17-student.pdf">Model Selection</a> <a href="sections/section02-s17-soln.pdf">(sol)</a> 
     hw: 
     papers:
     section:

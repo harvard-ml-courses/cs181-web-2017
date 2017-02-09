@@ -82,11 +82,11 @@ lectures:
     section:
     demos: 
   - topic: 
-    subtopic: Section 2 <a href="sections/section02-s17-student.pdf">Model Selection</a> <a href=https://github.com/harvard-ml-courses/cs181-demos/blob/master/sklearn-demo.ipynb>(demo)</a> 
+    subtopic: Section 2 <a href="sections/section02-s17-student.pdf">Model Selection</a> 
     hw: 
     papers:
     section:
-    demos:
+    demos: <a href=https://github.com/harvard-ml-courses/cs181-demos/blob/master/sklearn-demo.ipynb>Sklearn</a> 
   - topic: 
     subtopic: <a href="lectures/05.handout.pdf">Bayesian Linear Regression</a>
     hw: P1 <a href="hw/practical1-regression.pdf">Regression</a> (<a href="https://canvas.harvard.edu/courses/21992/assignments/117077">submit</a> | <a href="https://inclass.kaggle.com/c/cs181-regression-practical">kaggle</a>) 
@@ -98,7 +98,7 @@ lectures:
     hw: 
     papers: Bishop &sect; 4.1, Sklearn &sect;  15.9
     section:
-    demos: 
+    demos: <a href = "https://github.com/harvard-ml-courses/cs181-demos/blob/master/Perceptron.ipynb"> Perceptron </a> 
   - topic: 
     subtopic: <a href="lectures/07-lectures-class.pdf">Probabilistic Classification</a>
     hw: 

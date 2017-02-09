@@ -19,6 +19,10 @@ tas:
     email: 
   - name: Jeffrey Chang
     email: 
+  - name: Rachit Singh
+    email: 
+  - name: Joseph Song
+    email: 
   - name: Fanney Zhu
     email: 
   - name: Christine Hwang
@@ -43,14 +47,14 @@ ohs:
     location: MD First Floor Lounge (one floor above ground!)
 
 lectures:
-  - topic: <a href="lectures/01-lectures-intro.pdf">Machine Learning</a>
+  - topic: <a href="https://github.com/harvard-ml-courses/cs181-lectures/blob/master/01-lectures-intro.pdf">Machine Learning</a>
     subtopic: 
     hw: 
     papers:
     section: 
     demos:
   - topic: Regression
-    subtopic: <a href="lectures/02-lectures-lr.pdf">Linear Regression 1</a>
+    subtopic: <a href="https://github.com/harvard-ml-courses/cs181-lectures/blob/master/02-lectures-lr.pdf">Linear Regression 1</a>
     hw: 
     papers: Bishop &sect; 3.1, Sklearn &sect; 3.1, 18.10
     section:
@@ -68,14 +72,14 @@ lectures:
     section:
     demos:  
   - topic: 
-    subtopic: <a href="lectures/03-lectures-lr.pdf">Linear Regression 2</a>
+    subtopic: <a href="https://github.com/harvard-ml-courses/cs181-lectures/blob/master/03-lectures-lr.pdf">Linear Regression 2</a>
     hw: T1 <a href="https://harvard-ml-courses.github.io/cs181-s17-homeworks/h1/homework1-regression.pdf">Regression</a> (<a href="https://canvas.harvard.edu/courses/21992/assignments/117075">submit</a> | <a href="https://canvas.harvard.edu/courses/21992/quizzes/54494">self-grading</a>)
     papers: Bishop &sect; 2.3, 3.1
     section:
     demos: <a href = "https://github.com/harvard-ml-courses/cs181-demos/blob/master/Gaussian.ipynb"> Gaussian </a> <a href = "https://github.com/harvard-ml-courses/cs181-demos/blob/master/BasisRegression.ipynb"> BasisRegression </a> 
   - topic: Model Regularization
 
-    subtopic: <a href="lectures/04-lectures-modelselection-tmp.pdf">Model Selection</a>
+    subtopic: <a href="https://github.com/harvard-ml-courses/cs181-lectures/blob/master/04-lectures-modelselection-tmp.pdf">Model Selection</a>
 
     hw: 
     papers:
@@ -88,7 +92,7 @@ lectures:
     section:
     demos: <a href=https://github.com/harvard-ml-courses/cs181-demos/blob/master/sklearn-demo.ipynb>Sklearn</a> 
   - topic: 
-    subtopic: <a href="lectures/05.handout.pdf">Bayesian Linear Regression</a>
+    subtopic: <a href="https://github.com/harvard-ml-courses/cs181-lectures/blob/master/05.handout.pdf">Bayesian Linear Regression</a>
     hw: P1 <a href="hw/practical1-regression.pdf">Regression</a> (<a href="https://canvas.harvard.edu/courses/21992/assignments/117077">submit</a> | <a href="https://inclass.kaggle.com/c/cs181-regression-practical">kaggle</a>) 
     papers: Bishop &sect; 3.3
     section:

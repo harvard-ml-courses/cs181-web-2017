@@ -123,7 +123,7 @@ lectures:
     demos: 
   - topic: 
     subtopic: <a href="lectures/09-lectures-nn2.pdf">Neural Networks 2</a>
-    hw: T2 <a href="hw/homework2-classification.pdf">Classification</a> (<a href="https://canvas.harvard.edu/courses/21992/assignments/117078">submit</a>)
+    hw: T2 <a href="https://harvard-ml-courses.github.io/cs181-s17-homeworks/h2/homework2-classification.pdf">Classification</a> (<a href="https://canvas.harvard.edu/courses/21992/assignments/117078">submit</a> |  <a href="">self-grading</a>)
     papers: Bishop &sect; 5.3
     section:
     demos: 
@@ -135,7 +135,7 @@ lectures:
     demos: 
   - topic: 
     subtopic: <a href="lectures/11-lectures-svm.pdf">Support Vector Machines</a>
-    hw: T2 <a href="https://harvard-ml-courses.github.io/cs181-s17-homeworks/h2/homework2-classification.pdf">Classification</a> (<a href="https://canvas.harvard.edu/courses/21992/assignments/117078">submit</a> |  <a href="">self-grading</a>)
+    hw: P2 <a href="hw/practical2-classification">Classification</a> (<a href="https://canvas.harvard.edu/courses/21992/assignments/117079">submit</a> | <a href="https://inclass.kaggle.com/c/cs-181-classification-practical">kaggle</a>)
     papers:
     section:
     demos: 

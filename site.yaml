@@ -111,11 +111,10 @@ lectures:
     demos: 
   - topic: 
     subtopic: <a href="https://github.com/harvard-ml-courses/cs181-lectures/blob/master/07-lectures-class.pdf">Probabilistic Classification</a>
-
     hw: 
     papers: Bishop &sect; 4.2, 4.3, Sklearn &sect;  18.1, 29.24
     section:
-    demos: 
+    demos: <a href="https://github.com/harvard-ml-courses/cs181-demos/blob/master/ProbabilisticClassification.ipynb">Probabilistic Classification</a>
   - topic: Neural Networks
     subtopic: <a href="lectures/08-lectures-nn1.pdf">Neural Networks 1</a>
     hw: 

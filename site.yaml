@@ -98,7 +98,7 @@ lectures:
     section:
     demos: 
   - topic: Classification
-    subtopic: <a href="lectures/06-lectures-class.pdf">Linear Classification</a>
+    subtopic: <a href="https://github.com/harvard-ml-courses/cs181-lectures/blob/master/06-lectures-class.pdf">Linear Classification</a>
     hw: 
     papers: Bishop &sect; 4.1, Sklearn &sect;  15.9
     section:

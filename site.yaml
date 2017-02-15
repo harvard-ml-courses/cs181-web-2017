@@ -60,13 +60,13 @@ lectures:
     section:
     demos: <a href="https://github.com/harvard-ml-courses/cs181-demos/blob/master/Regression.ipynb">Regression</a>
   - topic: 
-    subtopic: Section 0  <a href="sections/Section_0.pdf">Math Review</a>
+    subtopic: <b> Section 0 </b>  <a href="sections/Section_0.pdf"> <font color = 'purple'> Math Review </font></a>
     hw: 
     papers: 
     section:
     demos:  
   - topic: 
-    subtopic: Section 1 <a href="sections/section01-s17-student.pdf">Linear Reg (<a href="sections/section01-s17-final.pdf">sol</a>) </a>
+    subtopic: <b> Section 1 </b>  <a href="sections/section01-s17-student.pdf"> <font color= 'purple'>Linear Reg </font>(<a href="sections/section01-s17-final.pdf"> <font color= 'purple'>sol </font></a>) </a> 
     hw: 
     papers: 
     section:
@@ -86,7 +86,7 @@ lectures:
     section:
     demos: 
   - topic: 
-    subtopic: Section 2 <a href="sections/section02-s17-student.pdf">Model Selection</a> <a href="sections/section02-s17-soln.pdf">(sol)</a> 
+    subtopic: <b>Section 2 </b><a href="sections/section02-s17-student.pdf"> <font color = 'purple'> Model Selection </font> </a> <a href="sections/section02-s17-soln.pdf"> <font color = 'purple'> (sol) </font></a> 
     hw: 
     papers:
     section:
@@ -104,7 +104,7 @@ lectures:
     section:
     demos: <a href = "https://github.com/harvard-ml-courses/cs181-demos/blob/master/Perceptron.ipynb"> Perceptron </a> 
   - topic: 
-    subtopic: Section 3 <a href="sections/section03-s17-student.pdf">Bayes Classification </a> 
+    subtopic: <b> Section 3 </b> <a href="sections/section03-s17-student.pdf"> <font color = 'purple'> Bayes Classification </font></a> 
     hw: 
     papers: 
     section:
@@ -122,7 +122,7 @@ lectures:
     section:
     demos:
   - topic: 
-    subtopic: Section 4
+    subtopic: <b> Section 4 </b>
     hw: 
     papers: 
     section:
@@ -140,7 +140,7 @@ lectures:
     section:
     demos:
   - topic: 
-    subtopic: Midterm Review
+    subtopic: <b> Midterm Review </b>
     hw: 
     papers: 
     section:

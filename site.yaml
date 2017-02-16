@@ -126,11 +126,12 @@ lectures:
     section:
     demos: <a href="https://github.com/harvard-ml-courses/cs181-demos/blob/master/NeuralNetwork1.ipynb">Neural Networks 1</a> <br> <a href="http://playground.tensorflow.org/">Tensor Flow</a>
   - topic: 
-    subtopic: <b> Section 4 </b>
+    subtopic: Section 4 
     hw: 
     papers: 
     section:
     demos:  
+    active: 'active'
   - topic: 
     subtopic: <a href="lectures/09-lectures-nn2.pdf">Neural Networks 2</a>
     hw: T2 <a href="https://harvard-ml-courses.github.io/cs181-s17-homeworks/h2/homework2-classification.pdf">Classification</a> (<a href="https://canvas.harvard.edu/courses/21992/assignments/117078">submit</a> |  <a href="">self-grading</a>)
@@ -144,11 +145,12 @@ lectures:
     section:
     demos:
   - topic: 
-    subtopic: <b> Midterm Review </b>
+    subtopic: Midterm Review 
     hw: 
     papers: 
     section:
-    demos:  
+    demos:
+    active:'active'  
   - topic: 
     subtopic: <a href="lectures/11-lectures-svm.pdf">Support Vector Machines</a>
     hw: 

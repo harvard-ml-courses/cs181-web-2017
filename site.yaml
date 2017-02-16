@@ -116,11 +116,11 @@ lectures:
     section:
     demos: <a href="https://github.com/harvard-ml-courses/cs181-demos/blob/master/ProbabilisticClassification.ipynb">Probabilistic Classification</a>
   - topic: Neural Networks
-    subtopic: <a href="lectures/08-lectures-nn1.pdf">Neural Networks 1</a>
+    subtopic: <a href="https://github.com/harvard-ml-courses/cs181-lectures/blob/master/08-lectures-nn1.pdf">Neural Networks 1</a>
     hw: 
     papers: Bishop &sect; 5.1-5.2
     section:
-    demos:
+    demos: <a href="https://github.com/harvard-ml-courses/cs181-demos/blob/master/NeuralNetwork1.ipynb">Neural Networks 1</a> <a href="playground.tensorflow.org">Tensor Flow</a>
   - topic: 
     subtopic: <b> Section 4 </b>
     hw: 

@@ -60,7 +60,7 @@ lectures:
     section:
     demos: <a href="https://github.com/harvard-ml-courses/cs181-demos/blob/master/Regression.ipynb">Regression</a>
   - topic: 
-    subtopic: <b> Section 0 </b>  <a href="sections/Section_0.pdf"> <font color = 'purple'> Math Review </font></a>
+    subtopic:  Section 0 <a href="sections/Section_0.pdf"> Math Review </a>
     hw: 
     papers: 
     section:
@@ -76,7 +76,7 @@ lectures:
     hw: T1 <a href="https://harvard-ml-courses.github.io/cs181-s17-homeworks/h1/homework1-regression.pdf">Regression</a> (<a href="https://canvas.harvard.edu/courses/21992/assignments/117075">submit</a> | <a href="https://canvas.harvard.edu/courses/21992/quizzes/54494">self-grading</a>)
     papers: Bishop &sect; 2.3, 3.1
     section:
-    demos: <a href = "https://github.com/harvard-ml-courses/cs181-demos/blob/master/Gaussian.ipynb"> Gaussian </a> <a href = "https://github.com/harvard-ml-courses/cs181-demos/blob/master/BasisRegression.ipynb"> BasisRegression </a> 
+    demos: <a href = "https://github.com/harvard-ml-courses/cs181-demos/blob/master/Gaussian.ipynb"> Gaussian </a> <br> <a href = "https://github.com/harvard-ml-courses/cs181-demos/blob/master/BasisRegression.ipynb"> BasisRegression </a> 
   - topic: Model Regularization
 
     subtopic: <a href="https://github.com/harvard-ml-courses/cs181-lectures/blob/master/04-lectures-modelselection-tmp.pdf">Model Selection</a>
@@ -120,7 +120,7 @@ lectures:
     hw: 
     papers: Bishop &sect; 5.1-5.2
     section:
-    demos: <a href="https://github.com/harvard-ml-courses/cs181-demos/blob/master/NeuralNetwork1.ipynb">Neural Networks 1</a> <a href="playground.tensorflow.org">Tensor Flow</a>
+    demos: <a href="https://github.com/harvard-ml-courses/cs181-demos/blob/master/NeuralNetwork1.ipynb">Neural Networks 1</a> <br> <a href="playground.tensorflow.org">Tensor Flow</a>
   - topic: 
     subtopic: <b> Section 4 </b>
     hw: 

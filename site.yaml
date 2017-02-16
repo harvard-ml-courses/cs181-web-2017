@@ -65,12 +65,14 @@ lectures:
     papers: 
     section:
     demos:  
+    active: 'active'
   - topic: 
-    subtopic: <b> Section 1 </b>  <a href="sections/section01-s17-student.pdf"> <font color= 'purple'>Linear Reg </font>(<a href="sections/section01-s17-final.pdf"> <font color= 'purple'>sol </font></a>) </a> 
+    subtopic: Section 1   <a href="sections/section01-s17-student.pdf"> Linear Reg (<a href="sections/section01-s17-final.pdf"> sol </a>) </a> 
     hw: 
     papers: 
     section:
     demos:  
+    active: active
   - topic: 
     subtopic: <a href="https://github.com/harvard-ml-courses/cs181-lectures/blob/master/03-lectures-lr.pdf">Linear Regression 2</a>
     hw: T1 <a href="https://harvard-ml-courses.github.io/cs181-s17-homeworks/h1/homework1-regression.pdf">Regression</a> (<a href="https://canvas.harvard.edu/courses/21992/assignments/117075">submit</a> | <a href="https://canvas.harvard.edu/courses/21992/quizzes/54494">self-grading</a>)
@@ -86,11 +88,12 @@ lectures:
     section:
     demos: 
   - topic: 
-    subtopic: <b>Section 2 </b><a href="sections/section02-s17-student.pdf"> <font color = 'purple'> Model Selection </font> </a> <a href="sections/section02-s17-soln.pdf"> <font color = 'purple'> (sol) </font></a> 
+    subtopic: Section 2 <a href="sections/section02-s17-student.pdf">  Model Selection </a> <a href="sections/section02-s17-soln.pdf">  (sol) </a> 
     hw: 
     papers:
     section:
     demos: <a href=https://github.com/harvard-ml-courses/cs181-demos/blob/master/sklearn-demo.ipynb>Sklearn</a> 
+    active: 'active'  
   - topic: 
     subtopic: <a href="https://github.com/harvard-ml-courses/cs181-lectures/blob/master/05.handout.pdf">Bayesian Linear Regression</a>
     hw: P1 <a href="hw/practical1-regression.pdf">Regression</a> (<a href="https://canvas.harvard.edu/courses/21992/assignments/117077">submit</a> | <a href="https://inclass.kaggle.com/c/cs181-regression-practical">kaggle</a>) 
@@ -104,11 +107,12 @@ lectures:
     section:
     demos: <a href = "https://github.com/harvard-ml-courses/cs181-demos/blob/master/Perceptron.ipynb"> Perceptron </a> 
   - topic: 
-    subtopic: <b> Section 3 </b> <a href="sections/section03-s17-student.pdf"> <font color = 'purple'> Bayes Classification </font></a> 
+    subtopic: Section 3  <a href="sections/section03-s17-student.pdf">  Bayes Classification </a> 
     hw: 
     papers: 
     section:
     demos: 
+    active: 'active'
   - topic: 
     subtopic: <a href="https://github.com/harvard-ml-courses/cs181-lectures/blob/master/07-lectures-class.pdf">Probabilistic Classification</a>
     hw: 

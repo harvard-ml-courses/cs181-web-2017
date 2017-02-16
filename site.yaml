@@ -150,7 +150,7 @@ lectures:
     papers: 
     section:
     demos:
-    active:'active'  
+    active: 'active'  
   - topic: 
     subtopic: <a href="lectures/11-lectures-svm.pdf">Support Vector Machines</a>
     hw: 

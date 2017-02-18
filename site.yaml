@@ -107,7 +107,7 @@ lectures:
     section:
     demos: <a href = "https://github.com/harvard-ml-courses/cs181-demos/blob/master/Perceptron.ipynb"> Perceptron </a> 
   - topic: 
-    subtopic: Section 3  <a href="sections/section03-s17-student.pdf">  Bayes Classification </a> 
+    subtopic: Section 3  <a href="sections/section03-s17-student.pdf">  Bayes Classification </a><a href="sections/section03-s17.pdf">  (sol) </a>  
     hw: 
     papers: 
     section:

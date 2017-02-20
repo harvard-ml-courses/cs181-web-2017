@@ -126,7 +126,8 @@ lectures:
     section:
     demos: <a href="https://github.com/harvard-ml-courses/cs181-demos/blob/master/NeuralNetwork1.ipynb">Neural Networks 1</a> <br> <a href="http://playground.tensorflow.org/">Tensor Flow</a>
   - topic: 
-    subtopic: Section 4 <a href="sections/section04-s17-student.pdf"> Probabilistic Classification & Neural Networks </a>
+    subtopic: Section 4 <a href="sections/section04-s17-student.pdf"> Probabilistic Classification &
+ Neural Networks 1 </a>
     hw: 
     papers: 
     section:

@@ -133,7 +133,7 @@ lectures:
     demos:  
     active: 'active'
   - topic: 
-    subtopic: <a href="lectures/09-lectures-nn2.pdf">Neural Networks 2</a>
+    subtopic: <a href="https://github.com/harvard-ml-courses/cs181-lectures/blob/master/09-lectures-nn2.pdf">Neural Networks 2</a>
     hw: T2 <a href="https://harvard-ml-courses.github.io/cs181-s17-homeworks/h2/homework2-classification.pdf">Classification</a> (<a href="https://canvas.harvard.edu/courses/21992/assignments/117078">submit</a> |  <a href="">self-grading</a>)
     papers: Bishop &sect; 5.3
     section:

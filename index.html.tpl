@@ -100,7 +100,7 @@ Tue 11:30-12:30, Thur 11:30-12:30 (week 1/23)</li>
 
         <dt>Section Times</dt>
           <dd><ul><li>Mon, 4-5,5-6p: MD 119</li>
-              <li>Tues, 4-5p: Northwest Basement (B100) </li>
+              <li>Tues, 4-5p: Northwest Basement (B105) </li>
               <li> Wed, 4-5,5-6p: MD 119</li>
               <!-- <li>Bonus section (math background): Fri Jan 27, time TBD</li></ul> -->
           </dd>

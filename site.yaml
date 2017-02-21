@@ -124,7 +124,7 @@ lectures:
     hw: 
     papers: Bishop &sect; 5.1-5.2
     section:
-    demos: <a href="https://github.com/harvard-ml-courses/cs181-demos/blob/master/NeuralNetwork1.ipynb">Neural Networks 1</a> <br> <a href="http://playground.tensorflow.org/">Tensor Flow</a>
+    demos: <a href="https://github.com/harvard-ml-courses/cs181-demos/blob/master/NeuralNetwork1.ipynb">Neural Networks 1</a> <br> <a href="http://playground.tensorflow.org/">TF Playground</a>
   - topic: 
     subtopic: Section 4 <a href="sections/section04-s17-student.pdf">Probabilistic Classification &  NN1 </a>
     hw: 
@@ -137,7 +137,7 @@ lectures:
     hw: T2 <a href="https://harvard-ml-courses.github.io/cs181-s17-homeworks/h2/homework2-classification.pdf">Classification</a> (<a href="https://canvas.harvard.edu/courses/21992/assignments/117078">submit</a> |  <a href="">self-grading</a>)
     papers: Bishop &sect; 5.3
     section:
-    demos: 
+    demos: <a href="https://github.com/harvard-ml-courses/cs181-demos/blob/master/NeuralNetwork1.ipynb">Neural Networks 1</a> <br> <a href="http://cs.stanford.edu/people/karpathy/convnetjs/">ConvNet JS</a>
   - topic: Margin-Based Models
     subtopic: <a href="lectures/10-lectures-margin.pdf">Margin-Based Classification</a>
     hw: 

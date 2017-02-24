@@ -62,14 +62,14 @@ lectures:
     section:
     demos: <a href="https://github.com/harvard-ml-courses/cs181-demos/blob/master/Regression.ipynb">Regression</a>
   - topic: 
-    subtopic:  Section 0 <a href="sections/Section_0.pdf"> Math Review </a>
+    subtopic:  Section 0 <a href="https://github.com/harvard-ml-courses/cs181-section/blob/master/Section_0.pdf"> Math Review </a>
     hw: 
     papers: 
     section:
     demos:  
     active: 'active'
   - topic: 
-    subtopic: Section 1   <a href="sections/section01-s17-student.pdf"> Linear Reg (<a href="sections/section01-s17-final.pdf"> sol </a>) </a> 
+    subtopic: Section 1   <a href="https://github.com/harvard-ml-courses/cs181-section/blob/master/section01-s17-student.pdf"> Linear Reg (<a href="https://github.com/harvard-ml-courses/cs181-section/blob/master/section01-s17-final.pdf"> sol </a>) </a> 
     hw: 
     papers: 
     section:
@@ -90,7 +90,7 @@ lectures:
     section:
     demos: 
   - topic: 
-    subtopic: Section 2 <a href="sections/section02-s17-student.pdf">  Model Selection </a> <a href="sections/section02-s17-soln.pdf">  (sol) </a> 
+    subtopic: Section 2 <a href="https://github.com/harvard-ml-courses/cs181-section/blob/master/section02-s17-student.pdf">  Model Selection </a> <a href="https://github.com/harvard-ml-courses/cs181-section/blob/master/section02-s17-soln.pdf">  (sol) </a> 
     hw: 
     papers:
     section:
@@ -109,7 +109,7 @@ lectures:
     section:
     demos: <a href = "https://github.com/harvard-ml-courses/cs181-demos/blob/master/Perceptron.ipynb"> Perceptron </a> 
   - topic: 
-    subtopic: Section 3  <a href="sections/section03-s17-student.pdf">  Bayes Classification </a><a href="sections/section03-s17.pdf">  (sol) </a>  
+    subtopic: Section 3  <a href="https://github.com/harvard-ml-courses/cs181-section/blob/master/section03-s17-student.pdf">  Bayes Classification </a><a href="https://github.com/harvard-ml-courses/cs181-section/blob/master/section03-s17.pdf">  (sol) </a>  
     hw: 
     papers: 
     section:
@@ -128,7 +128,7 @@ lectures:
     section:
     demos: <a href="https://github.com/harvard-ml-courses/cs181-demos/blob/master/NeuralNetwork1.ipynb">Neural Networks 1</a> <br> <a href="http://playground.tensorflow.org/">TF Playground</a>
   - topic: 
-    subtopic: Section 4 <a href="sections/section04-s17-student.pdf">Probabilistic Classification &  NN1 </a> <a href="sections/section04-s17-soln.pdf">(sol) </a>
+    subtopic: Section 4 <a href="https://github.com/harvard-ml-courses/cs181-section/blob/master/section04-s17-student.pdf">Probabilistic Classification &  NN1 </a> <a href="https://github.com/harvard-ml-courses/cs181-section/blob/master/section04-s17-soln.pdf">(sol) </a>
     hw: 
     papers: 
     section:

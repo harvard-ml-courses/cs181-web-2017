@@ -53,8 +53,8 @@
         <dl>
           <dt>Instructors</dt>
           <dd> <ul><li>David Parkes <br>
-OH: Thur 2:30-3:30, 5.15-5.45p, MD 229 (starting 2/2)<br>
-Tue 11:30-12:30, Thur 11:30-12:30 (week 1/23)</li>
+OH: Thur 2:30-3:30, 5.15-6p, MD 229<br>
+</li>
               <li>Alexander "Sasha" Rush  <br>
                   OH: Wed 2:30-4, MD 217 
               </li> 
@@ -100,7 +100,7 @@ Tue 11:30-12:30, Thur 11:30-12:30 (week 1/23)</li>
 
         <dt>Section Times</dt>
           <dd><ul><li>Mon, 4-5,5-6p: MD 119</li>
-              <li>Tues, 4-5p: Northwest Basement (B100) </li>
+              <li>Tues, 4-5p: Northwest Basement (B105) </li>
               <li> Wed, 4-5,5-6p: MD 119</li>
               <!-- <li>Bonus section (math background): Fri Jan 27, time TBD</li></ul> -->
           </dd>
@@ -134,10 +134,10 @@ Tue 11:30-12:30, Thur 11:30-12:30 (week 1/23)</li>
           <h3 id="schedule">Schedule</h3>
 
 
-      <table class="table table-hover">
+      <table class="table">
         <tr><th>Date</th> <th>Area</th> <th>Topic</th><th>Demos </th><th>Readings</th><th>Assignment (DUE: Fri 5pm of this week)</th></tr>
         {% for lecture in lectures %}
-        <tr>
+        <tr class = {{lecture.active|default("",true)}}>
           <td> {{dates[loop.index]}} </td> <td> {{lecture.topic | default("",true)}} </td>
           <td> {{lecture.subtopic|default("", true)}}</td>
           <td>

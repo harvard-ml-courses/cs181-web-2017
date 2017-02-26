@@ -29,8 +29,8 @@ tas:
     email: 
 
 
-dates: ["", "Jan. 24", "Jan. 26", "Jan. 27", "Jan. 30", "Jan. 31", "Feb. 2","Feb. 6", "Feb. 7", "Feb. 9", "Feb. 13", "Feb. 14", "Feb. 16",
-        "Feb. 21", "Feb. 23", "Feb. 28", "Mar. 2", "Mar. 7", "Mar. 9", "Mar. 21", 
+dates: ["", "Jan. 24", "Jan. 26", "Jan. 27", "Jan. 30", "Jan. 31", "Feb. 2","Feb. 6", "Feb. 7", "Feb. 9", "Feb. 13", "Feb. 14", "Feb. 16", "Feb. 20",
+        "Feb. 21", "Feb. 23", "Feb. 27", "Feb. 28", "Mar. 2", "Mar. 7", "Mar. 9", "Mar. 21", 
         "Mar. 23", "Mar. 28", "Mar. 30", "Apr. 4", "Apr. 6", "Apr. 11", "Apr. 13", "Apr. 18", "Apr. 20", "Apr. 25"]
 
 
@@ -39,6 +39,8 @@ ohs:
     location: Quincy DH
   - time: Wed 6-8pm
     location: MD 119 / Second Floor
+  - time: Wed 8-10pm
+    location: Lowell DH
   - time: Thu 8-10pm
     location: Currier DH
   - time: Thu 8-10pm
@@ -60,23 +62,25 @@ lectures:
     section:
     demos: <a href="https://github.com/harvard-ml-courses/cs181-demos/blob/master/Regression.ipynb">Regression</a>
   - topic: 
-    subtopic: Section 0  <a href="sections/Section_0.pdf">Math Review</a>
+    subtopic:  Section 0 <a href="https://github.com/harvard-ml-courses/cs181-section/blob/master/Section_0.pdf"> Math Review </a>
     hw: 
     papers: 
     section:
     demos:  
+    active: 'active'
   - topic: 
-    subtopic: Section 1 <a href="sections/section01-s17-student.pdf">Linear Reg (<a href="sections/section01-s17-final.pdf">sol</a>) </a>
+    subtopic: Section 1   <a href="https://github.com/harvard-ml-courses/cs181-section/blob/master/section01-s17-student.pdf"> Linear Reg (<a href="https://github.com/harvard-ml-courses/cs181-section/blob/master/section01-s17-final.pdf"> sol </a>) </a> 
     hw: 
     papers: 
     section:
     demos:  
+    active: active
   - topic: 
     subtopic: <a href="https://github.com/harvard-ml-courses/cs181-lectures/blob/master/03-lectures-lr.pdf">Linear Regression 2</a>
     hw: T1 <a href="https://harvard-ml-courses.github.io/cs181-s17-homeworks/h1/homework1-regression.pdf">Regression</a> (<a href="https://canvas.harvard.edu/courses/21992/assignments/117075">submit</a> | <a href="https://canvas.harvard.edu/courses/21992/quizzes/54494">self-grading</a>)
     papers: Bishop &sect; 2.3, 3.1
     section:
-    demos: <a href = "https://github.com/harvard-ml-courses/cs181-demos/blob/master/Gaussian.ipynb"> Gaussian </a> <a href = "https://github.com/harvard-ml-courses/cs181-demos/blob/master/BasisRegression.ipynb"> BasisRegression </a> 
+    demos: <a href = "https://github.com/harvard-ml-courses/cs181-demos/blob/master/Gaussian.ipynb"> Gaussian </a> <br> <a href = "https://github.com/harvard-ml-courses/cs181-demos/blob/master/BasisRegression.ipynb"> BasisRegression </a> 
   - topic: Model Regularization
 
     subtopic: <a href="https://github.com/harvard-ml-courses/cs181-lectures/blob/master/04-lectures-modelselection-tmp.pdf">Model Selection</a>
@@ -86,11 +90,12 @@ lectures:
     section:
     demos: 
   - topic: 
-    subtopic: Section 2 <a href="sections/section02-s17-student.pdf">Model Selection</a> <a href="sections/section02-s17-soln.pdf">(sol)</a> 
+    subtopic: Section 2 <a href="https://github.com/harvard-ml-courses/cs181-section/blob/master/section02-s17-student.pdf">  Model Selection </a> <a href="https://github.com/harvard-ml-courses/cs181-section/blob/master/section02-s17-soln.pdf">  (sol) </a> 
     hw: 
     papers:
     section:
     demos: <a href=https://github.com/harvard-ml-courses/cs181-demos/blob/master/sklearn-demo.ipynb>Sklearn</a> 
+    active: 'active'  
   - topic: 
     subtopic: <a href="https://github.com/harvard-ml-courses/cs181-lectures/blob/master/05.handout.pdf">Bayesian Linear Regression</a>
     hw: P1 <a href="hw/practical1-regression.pdf">Regression</a> (<a href="https://canvas.harvard.edu/courses/21992/assignments/117077">submit</a> | <a href="https://inclass.kaggle.com/c/cs181-regression-practical">kaggle</a>) 
@@ -104,11 +109,12 @@ lectures:
     section:
     demos: <a href = "https://github.com/harvard-ml-courses/cs181-demos/blob/master/Perceptron.ipynb"> Perceptron </a> 
   - topic: 
-    subtopic: Section 3 <a href="sections/section03-s17-student.pdf">Bayes Classification </a> 
+    subtopic: Section 3  <a href="https://github.com/harvard-ml-courses/cs181-section/blob/master/section03-s17-student.pdf">  Bayes Classification </a><a href="https://github.com/harvard-ml-courses/cs181-section/blob/master/section03-s17.pdf">  (sol) </a>  
     hw: 
     papers: 
     section:
     demos: 
+    active: 'active'
   - topic: 
     subtopic: <a href="https://github.com/harvard-ml-courses/cs181-lectures/blob/master/07-lectures-class.pdf">Probabilistic Classification</a>
     hw: 
@@ -116,26 +122,40 @@ lectures:
     section:
     demos: <a href="https://github.com/harvard-ml-courses/cs181-demos/blob/master/ProbabilisticClassification.ipynb">Probabilistic Classification</a>
   - topic: Neural Networks
-    subtopic: <a href="lectures/08-lectures-nn1.pdf">Neural Networks 1</a>
+    subtopic: <a href="https://github.com/harvard-ml-courses/cs181-lectures/blob/master/08-lectures-nn1.pdf">Neural Networks 1</a>
     hw: 
     papers: Bishop &sect; 5.1-5.2
     section:
-    demos: 
+    demos: <a href="https://github.com/harvard-ml-courses/cs181-demos/blob/master/NeuralNetwork1.ipynb">Neural Networks 1</a> <br> <a href="http://playground.tensorflow.org/">TF Playground</a>
+  - topic: 
+    subtopic: Section 4 <a href="https://github.com/harvard-ml-courses/cs181-section/blob/master/section04-s17-student.pdf">Probabilistic Classification &  NN1 </a> <a href="https://github.com/harvard-ml-courses/cs181-section/blob/master/section04-s17-soln.pdf">(sol) </a>
+    hw: 
+    papers: 
+    section:
+    demos:  
+    active: 'active'
   - topic: 
     subtopic: <a href="lectures/09-lectures-nn2.pdf">Neural Networks 2</a>
     hw: T2 <a href="https://harvard-ml-courses.github.io/cs181-s17-homeworks/h2/homework2-classification.pdf">Classification</a> (<a href="https://canvas.harvard.edu/courses/21992/assignments/117078">submit</a> |  <a href="">self-grading</a> | <a href="https://canvas.harvard.edu/courses/21992/files/3662941/download?wrap=1">soln</a>)
     papers: Bishop &sect; 5.3
     section:
-    demos: 
+    demos: <a href="https://github.com/harvard-ml-courses/cs181-demos/blob/master/NeuralNetwork1.ipynb">Neural Networks 1</a> <br> <a href="http://cs.stanford.edu/people/karpathy/convnetjs/">ConvNet JS</a>
   - topic: Margin-Based Models
-    subtopic: <a href="lectures/10-lectures-margin.pdf">Margin-Based Classification</a>
+    subtopic: <a href="https://github.com/harvard-ml-courses/cs181-lectures/blob/master/10.handout.pdf">Margin-Based Classification</a>
     hw: 
     papers:
     section:
-    demos: 
+    demos:
+  - topic: 
+    subtopic: Midterm Review 
+    hw: 
+    papers: 
+    section:
+    demos:
+    active: 'active'  
   - topic: 
     subtopic: <a href="lectures/11-lectures-svm.pdf">Support Vector Machines</a>
-    hw: P2 <a href="hw/practical2-classification">Classification</a> (<a href="https://canvas.harvard.edu/courses/21992/assignments/117079">submit</a> | <a href="https://inclass.kaggle.com/c/cs-181-classification-practical">kaggle</a>)
+    hw: 
     papers:
     section:
     demos: 
@@ -147,7 +167,7 @@ lectures:
     demos: 
   - topic: Topics 1
     subtopic: <a href="lectures/12-lectures-deeplearning.pdf">Deep Learning</a>
-    hw: 
+    hw: P2 <a href="hw/practical2-classification">Classification</a> (<a href="https://canvas.harvard.edu/courses/21992/assignments/117079">submit</a> | <a href="https://inclass.kaggle.com/c/cs-181-classification-practical">kaggle</a>)
     papers:
     section:
     demos: 

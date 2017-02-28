@@ -154,7 +154,7 @@ lectures:
     demos:
     active: 'active'  
   - topic: 
-    subtopic: <a href="lectures/11-lectures-svm.pdf">Support Vector Machines</a>
+    subtopic: <a href="https://github.com/harvard-ml-courses/cs181-lectures/blob/master/10.handout.pdf">Support Vector Machines</a>
     hw: 
     papers:
     section:

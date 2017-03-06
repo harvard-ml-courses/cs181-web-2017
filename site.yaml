@@ -187,7 +187,7 @@ lectures:
     demos: 
   - topic: 
     subtopic: Mixture Models, EM
-    hw: T3 <a href="hw/homework3-svm.pdf">SVMs</a> (<a href="https://canvas.harvard.edu/courses/21992/assignments/117080">submit</a>)
+    hw: T3 <a href="https://harvard-ml-courses.github.io/cs181-s17-homeworks/h3/homework3-svm.pdf">SVMs</a> (<a href="https://canvas.harvard.edu/courses/21992/assignments/117080">submit</a>)
     papers:
     section:
     demos: 

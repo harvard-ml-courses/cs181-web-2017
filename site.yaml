@@ -180,7 +180,7 @@ lectures:
     section:
     demos: 
   - topic: Topics 1
-    subtopic: <a href="lectures/12-lectures-deeplearning.pdf">Deep Learning</a>
+    subtopic: <a href="lectures/13-lectures-deeplearning.pdf">Deep Learning for Text</a>
     hw: 
     papers:
     section:

@@ -174,7 +174,7 @@ lectures:
     active: 'active'
   - topic: Unsupervised
     subtopic: <a href="https://github.com/harvard-ml-courses/cs181-lectures/blob/master/12.handout.pdf">Hierarchical Clustering, K-Means</a>
-    hw: P2 <a href="https://github.com/harvard-ml-courses/cs181-s17-homeworks/blob/master/p2/practical2-classification.pdf">Classification</a> (<a href="https://canvas.harvard.edu/courses/21992/assignments/117079">submit</a> | <a href="https://inclass.kaggle.com/c/cs-181-classification-practical">kaggle</a>) <br> Kaggle due W 11:59pm
+    hw: P2 <a href="https://github.com/harvard-ml-courses/cs181-s17-homeworks/blob/master/p2/practical2-classification.pdf">Classification</a> (<a href="https://canvas.harvard.edu/courses/21992/assignments/117079">submit</a> | <a href="https://inclass.kaggle.com/c/cs-181-classification-practical">kaggle</a>) <br> Kaggle due Th 11:59pm<br> Competition ends W 11:59pm
 
     papers:
     section:

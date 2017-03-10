@@ -166,7 +166,7 @@ lectures:
     section:
     demos: 
   - topic: 
-    subtopic: Section 5 <a href="https://github.com/harvard-ml-courses/cs181-section/blob/master/section05-s17-student.pdf">Support Vector Machines</a> <a href="https://github.com/harvard-ml-courses/cs181-section/blob/master/section05-s17.pdf">(sol) </a>
+    subtopic: Section 5 <br><a href="https://github.com/harvard-ml-courses/cs181-section/blob/master/section05-s17-student.pdf">Support Vector Machines</a> <a href="https://github.com/harvard-ml-courses/cs181-section/blob/master/section05-s17.pdf">(sol) </a>
     hw: 
     papers: 
     section:

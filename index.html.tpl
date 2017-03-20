@@ -99,8 +99,8 @@ OH: Thur 2:30-3:30, 5.15-6p, MD 229<br>
           </dd>
 
         <dt>Section Times</dt>
-          <dd><ul><li>Mon, 4-5,5-6p: MD 119</li>
-              <li>Tues, 4-5p: Northwest Basement (B105) </li>
+          <dd><ul><li>Mon, 4-5,5-6:30p(extended): MD 119</li>
+              <li>Tues, 4-5:30p(extended): Northwest Basement (B105) </li>
               <li> Wed, 4-5,5-6p: MD 119</li>
               <!-- <li>Bonus section (math background): Fri Jan 27, time TBD</li></ul> -->
           </dd>

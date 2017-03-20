@@ -191,6 +191,7 @@ lectures:
     papers:
     section:
     demos: 
+    active: 'active'
   - topic: 
     subtopic: Mixture Models, EM
     hw: T3 <a href="https://github.com/harvard-ml-courses/cs181-s17-homeworks/tree/master/h3">SVMs</a> (<a href="https://canvas.harvard.edu/courses/21992/assignments/117080">submit</a>)

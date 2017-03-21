@@ -53,8 +53,8 @@
         <dl>
           <dt>Instructors</dt>
           <dd> <ul><li>David Parkes <br>
-OH: Thur 2:30-3:30, 5.15-5.45p, MD 229 (starting 2/2)<br>
-Tue 11:30-12:30, Thur 11:30-12:30 (week 1/23)</li>
+OH: Thur 2:30-3:30, 5.15-6p, MD 229<br>
+</li>
               <li>Alexander "Sasha" Rush  <br>
                   OH: Wed 2:30-4, MD 217 
               </li> 
@@ -99,8 +99,8 @@ Tue 11:30-12:30, Thur 11:30-12:30 (week 1/23)</li>
           </dd>
 
         <dt>Section Times</dt>
-          <dd><ul><li>Mon, 4-5,5-6p: MD 119</li>
-              <li>Tues, 4-5p: Northwest Basement (B105) </li>
+          <dd><ul><li>Mon, 4-5,5-6:30p(extended): MD 119</li>
+              <li>Tues, 4-5:30p(extended): Northwest Basement (B105) </li>
               <li> Wed, 4-5,5-6p: MD 119</li>
               <!-- <li>Bonus section (math background): Fri Jan 27, time TBD</li></ul> -->
           </dd>

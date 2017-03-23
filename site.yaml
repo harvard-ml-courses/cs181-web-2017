@@ -172,7 +172,7 @@ lectures:
     section:
     demos: 
   - topic: 
-    subtopic: Section 7 <a href="https://github.com/harvard-ml-courses/cs181-section/blob/master/cs181-section7-student.pdf">Clustering</a> <br> <a href = 'https://github.com/harvard-ml-courses/cs181-section/blob/master/Curse%20of%20Dimensionality%20Simulations.ipynb'>demo</a>
+    subtopic: Section 7 <a href="https://github.com/harvard-ml-courses/cs181-section/blob/master/cs181-section7-student.pdf">Clustering</a> <br> <a href = 'https://github.com/harvard-ml-courses/cs181-section/blob/master/Curse%20of%20Dimensionality%20Simulations.ipynb'>demo</a> <a href = 'https://github.com/harvard-ml-courses/cs181-section/blob/master/cs181-section7.pdf'> (sol) </a>
     hw: 
     papers:
     section:

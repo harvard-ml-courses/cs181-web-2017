@@ -194,7 +194,7 @@ lectures:
     subtopic: <a href = 'https://github.com/harvard-ml-courses/cs181-section/blob/master/section08-s17-student.pdf'> Section 8 <br> EM and Topic Modeling </a>
     hw: 
     papers:
-    section:active 
+    section:'active' 
     demos: 
   - topic: 
     subtopic: <a href="https://github.com/harvard-ml-courses/cs181-lectures/blob/master/16-lectures-pca.pdf">Dimensionality Reduction</a.

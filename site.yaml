@@ -190,7 +190,7 @@ lectures:
     papers:
     section:
     demos: <a href = 'https://github.com/harvard-ml-courses/cs181-demos/blob/master/TopicModeling.ipynb'> Topic Modeling </a>
-   - topic: 
+  - topic: 
     subtopic: <a href = 'https://github.com/harvard-ml-courses/cs181-section/blob/master/section08-s17-student.pdf'> Section 8 <br> EM and Topic Modeling </a>
     hw: 
     papers:

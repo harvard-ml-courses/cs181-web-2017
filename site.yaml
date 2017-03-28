@@ -186,7 +186,7 @@ lectures:
   - topic: 
     subtopic: <a href="https://github.com/harvard-ml-courses/cs181-lectures/blob/master/15-lectures-topicmodel.pdf">Discrete Mixtures, Topic Models</a>
     hw: 
-    papers:
+    papers: Bishop &sect; 9.3.3
     section:
     demos: <a href = 'https://github.com/harvard-ml-courses/cs181-demos/blob/master/TopicModeling.ipynb'> Topic Modeling </a>
   - topic: 
@@ -199,13 +199,13 @@ lectures:
   - topic: 
     subtopic: <a href="https://github.com/harvard-ml-courses/cs181-lectures/blob/master/16-lectures-pca.pdf">Dimensionality Reduction</a.
     hw: T4 <a href="https://github.com/harvard-ml-courses/cs181-s17-homeworks/tree/master/h4">Clustering/EM</a> (<a href="https://canvas.harvard.edu/courses/21992/assignments/117081">submit</a>)
-    papers:
+    papers: Bishop &sect; 12.1
     section:
     demos: <a href = 'https://github.com/harvard-ml-courses/cs181-demos/blob/master/PCA.ipynb'> PCA </a>
   - topic: Graphical Models
     subtopic: HMMs
     hw: 
-    papers: Bishop &sect; 12.1
+    papers: 
     section:
     demos: 
   - topic: 

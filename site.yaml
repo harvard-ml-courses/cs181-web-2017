@@ -205,7 +205,7 @@ lectures:
   - topic: Graphical Models
     subtopic: HMMs
     hw: 
-    papers:
+    papers: Bishop &sect; 12.1
     section:
     demos: 
   - topic: 

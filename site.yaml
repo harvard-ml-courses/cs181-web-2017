@@ -167,7 +167,7 @@ lectures:
   - topic: Topics 1
     subtopic: <a href="https://github.com/harvard-ml-courses/cs181-lectures/blob/master/13-lectures-deeplearning.pdf">Deep Learning for Text</a>
     hw: 
-    papers:<a href = http://u.cs.biu.ac.il/~yogo/nnlp.pdf></a> (optional)
+    papers: <a href = http://u.cs.biu.ac.il/~yogo/nnlp.pdf></a> (optional)
     section:
     demos: 
   - topic: 

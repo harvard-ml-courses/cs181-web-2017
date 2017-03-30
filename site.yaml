@@ -167,7 +167,7 @@ lectures:
   - topic: Topics 1
     subtopic: <a href="https://github.com/harvard-ml-courses/cs181-lectures/blob/master/13-lectures-deeplearning.pdf">Deep Learning for Text</a>
     hw: 
-    papers:
+    papers:<a href = http://u.cs.biu.ac.il/~yogo/nnlp.pdf></a> (optional)
     section:
     demos: 
   - topic: 
@@ -186,7 +186,7 @@ lectures:
   - topic: 
     subtopic: <a href="https://github.com/harvard-ml-courses/cs181-lectures/blob/master/15-lectures-topicmodel.pdf">Discrete Mixtures, Topic Models</a>
     hw: 
-    papers: Bishop &sect; 9.3.3
+    papers: Bishop &sect; 9.3.3, <a href = http://menome.com/wp/wp-content/uploads/2014/12/Blei2011.pdf> Topic Modeling (optional) </a> 
     section:
     demos: <a href = 'https://github.com/harvard-ml-courses/cs181-demos/blob/master/TopicModeling.ipynb'> Topic Modeling </a>
   - topic: 

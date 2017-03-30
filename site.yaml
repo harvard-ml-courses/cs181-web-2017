@@ -210,7 +210,7 @@ lectures:
     demos: 
   - topic: 
     subtopic: <a href="https://github.com/harvard-ml-courses/cs181-lectures/blob/master/17.handout.pdf">Bayesian Networks</a>
-    hw: P3 <a href="https://github.com/harvard-ml-courses/cs181-s17-homeworks/tree/master/p3">Recommendation</a> (<a href="https://canvas.harvard.edu/courses/21992/assignments/117083">submit</a> | <a href="https://inclass.kaggle.com/c/cs-181-recommendation-practical">kaggle</a>) 
+    hw: P3 <a href="https://github.com/harvard-ml-courses/cs181-s17-homeworks/tree/master/p3">Recommendation</a> (<a href="https://canvas.harvard.edu/courses/21992/assignments/117083">submit</a> | <a href="https://inclass.kaggle.com/c/cs181-recommendation-practical">kaggle</a>) 
     papers:
     section:
     demos: 

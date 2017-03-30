@@ -186,7 +186,7 @@ lectures:
   - topic: 
     subtopic: <a href="https://github.com/harvard-ml-courses/cs181-lectures/blob/master/15-lectures-topicmodel.pdf">Discrete Mixtures, Topic Models</a>
     hw: 
-    papers: Bishop &sect; 9.3.3, <a href = http://menome.com/wp/wp-content/uploads/2014/12/Blei2011.pdf> Introduction to Probabilistic Topic Models  (optional) </a> 
+    papers: Bishop &sect; 9.3.3,<br> <a href = http://menome.com/wp/wp-content/uploads/2014/12/Blei2011.pdf> Introduction to Probabilistic Topic Models  (optional) </a> 
     section:
     demos: <a href = 'https://github.com/harvard-ml-courses/cs181-demos/blob/master/TopicModeling.ipynb'> Topic Modeling </a>
   - topic: 

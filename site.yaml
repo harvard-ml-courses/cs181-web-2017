@@ -209,9 +209,9 @@ lectures:
     section:
     demos:
   - topic: 
-    subtopic: Section 9 <a href = 'https://github.com/harvard-ml-courses/cs181-section/blob/master/section09-s17-student.pdf'> <br> PCA + HMMs </a>
+    subtopic: Section 9 <a href = 'https://github.com/harvard-ml-courses/cs181-section/blob/master/section09-s17-student.pdf'> <br> PCA + HMMs </a> <a href = 'https://github.com/harvard-ml-courses/cs181-section/blob/master/section09-s17-soln.pdf'> (sol) </a>
     hw: 
-    papers: 
+    papers:
     section:
     demos:
   - topic: 

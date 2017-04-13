@@ -241,7 +241,7 @@ lectures:
     section:
     demos: 
   - topic: 
-    subtopic: Reinforcement Learning
+    subtopic: <a href= 'https://github.com/harvard-ml-courses/cs181-lectures/blob/master/21-lectures-rl.pdf'>Reinforcement Learning</a>
     hw: 
     papers:
     section:

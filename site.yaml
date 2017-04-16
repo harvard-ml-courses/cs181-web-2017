@@ -247,7 +247,7 @@ lectures:
     section:
     demos: 
   - topic: 
-    subtopic: Deep RL 
+    subtopic: <a href= 'https://github.com/harvard-ml-courses/cs181-lectures/blob/master/22-lectures-drl.pdf'>Deep RL</a> 
     hw: 
     papers:
     section:

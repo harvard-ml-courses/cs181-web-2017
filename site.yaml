@@ -252,7 +252,7 @@ lectures:
     demos: 
   - topic: 
     subtopic: Midterm 2
-    hw: P4 <a href="">RL</a> (<a href="https://canvas.harvard.edu/courses/21992/assignments/117084">submit</a> | <a href="https://inclass.kaggle.com/c/cs-181-rl-practical">kaggle</a>)
+    hw: P4 <a href="https://github.com/harvard-ml-courses/cs181-s17-homeworks/tree/master/p4">RL</a> (<a href="https://canvas.harvard.edu/courses/21992/assignments/117084">submit</a>)
     papers:
     section:
     demos: 

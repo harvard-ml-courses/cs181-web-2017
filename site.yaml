@@ -246,13 +246,13 @@ lectures:
     papers:
     section:
     demos: 
-  - topic: 
-    subtopic: Section 11 <a href = 'https://github.com/harvard-ml-courses/cs181-section/blob/master/section11-s17-student.pdf'> MDP and RL </a>
-    hw: 
-    papers:
-    section:
-    demos: 
-    active: 'active'
+  # - topic: 
+  #   subtopic: Section 11 <a href = 'https://github.com/harvard-ml-courses/cs181-section/blob/master/section11-s17-student.pdf'> MDP and RL </a>
+  #   hw: 
+  #   papers:
+  #   section:
+  #   demos: 
+  #   active: 'active'
   - topic: 
     subtopic: <a href= 'https://github.com/harvard-ml-courses/cs181-lectures/blob/master/22-lectures-drl.pdf'>Deep RL</a> 
     hw: 

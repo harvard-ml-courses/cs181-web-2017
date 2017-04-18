@@ -17,7 +17,7 @@ tas:
 
 dates: ["", "Jan. 24", "Jan. 26", "Jan. 27", "Jan. 30", "Jan. 31", "Feb. 2","Feb. 6", "Feb. 7", "Feb. 9", "Feb. 13", "Feb. 14", "Feb. 16", "Feb. 20",
         "Feb. 21", "Feb. 23", "Feb. 27", "Feb. 28", "Mar. 2","Mar. 6", "Mar. 7", "Mar. 9","Mar. 20", "Mar. 21", 
-        "Mar. 23","Mar. 27", "Mar. 28", "Mar. 30", "Apr. 3", "Apr. 4", "Apr. 6","Apr. 10" ,"Apr. 11", "Apr. 13", "Apr. 18", "Apr. 20", "Apr. 23", "Apr. 25"]
+        "Mar. 23","Mar. 27", "Mar. 28", "Mar. 30", "Apr. 3", "Apr. 4", "Apr. 6","Apr. 10" ,"Apr. 11", "Apr. 13","Apr. 17", "Apr. 18", "Apr. 20","Apr. 23", "Apr. 25"]
 
 
 ohs:
@@ -246,6 +246,13 @@ lectures:
     papers:
     section:
     demos: 
+  - topic: 
+    subtopic: Section 11 <a href = 'https://github.com/harvard-ml-courses/cs181-section/blob/master/section11-s17-student.pdf'> MDP and RL </a>
+    hw: 
+    papers:
+    section:
+    demos: 
+    active: 'active'
   - topic: 
     subtopic: <a href= 'https://github.com/harvard-ml-courses/cs181-lectures/blob/master/22-lectures-drl.pdf'>Deep RL</a> 
     hw: 

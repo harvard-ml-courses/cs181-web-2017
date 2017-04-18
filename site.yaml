@@ -260,7 +260,7 @@ lectures:
     demos:
   - topic: 
     subtopic: Midterm Review
-    hw:  <a href="https://github.com/harvard-ml-courses/cs181-section/blob/master/practice-midterm2-topics.pdf">Topics</a> | <a href="https://github.com/harvard-ml-courses/cs181-section/blob/master/practice-midterm2-problems.pdf">Practice Problems</a> | <a href="">Solutions</a> 
+    hw:  <a href="https://github.com/harvard-ml-courses/cs181-section/blob/master/practice-midterm2-topics.pdf">Topics</a> | <a href="https://github.com/harvard-ml-courses/cs181-section/blob/master/practice-midterm2-problems.pdf">Practice Problems</a> | <a href="https://github.com/harvard-ml-courses/cs181-section/blob/master/practice-midterm2-problems-soln.pdf">Solutions</a> 
     papers:
     section:
     demos: 

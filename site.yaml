@@ -260,7 +260,7 @@ lectures:
     section:
     demos: 
   - topic: Topics 2
-    subtopic: <a href = 'https://github.com/harvard-ml-courses/cs181-lectures/blob/master/23.handout.pdf'> Learning Theory (1) </a> <br> <a href = 'https://github.com/harvard-ml-courses/cs181-lectures/blob/master/23-lectures-end.pdf'> Learning Theory (b) </a>
+    subtopic: <a href = 'https://github.com/harvard-ml-courses/cs181-lectures/blob/master/23.handout.pdf'> Learning Theory (a) </a> <br> <a href = 'https://github.com/harvard-ml-courses/cs181-lectures/blob/master/23-lectures-end.pdf'> Learning Theory (b) </a>
     hw: 
     papers:
     section:

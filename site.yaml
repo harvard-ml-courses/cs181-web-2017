@@ -48,14 +48,14 @@ lectures:
     section:
     demos: <a href="https://github.com/harvard-ml-courses/cs181-demos/blob/master/s17/Regression.ipynb">Regression</a>
   - topic: 
-    subtopic:  Section 0 <a href="https://github.com/harvard-ml-courses/cs181-section/blob/master/Section_0.pdf"> Math Review </a>
+    subtopic:  Section 0 <a href="https://github.com/harvard-ml-courses/cs181-section/blob/master/s17/section00-s17.pdf"> Math Review </a>
     hw: 
     papers: 
     section:
     demos:  
     active: 'active'
   - topic: 
-    subtopic: Section 1   <a href="https://github.com/harvard-ml-courses/cs181-section/blob/master/section01-s17-student.pdf"> Linear Reg (<a href="https://github.com/harvard-ml-courses/cs181-section/blob/master/section01-s17-final.pdf"> sol </a>) </a> 
+    subtopic: Section 1   <a href="https://github.com/harvard-ml-courses/cs181-section/blob/master/s17/section01-s17-student.pdf"> Linear Reg (<a href="https://github.com/harvard-ml-courses/cs181-section/blob/master/s17/section01-s17-final.pdf"> sol </a>) </a> 
     hw: 
     papers: 
     section:
@@ -76,7 +76,7 @@ lectures:
     section:
     demos: 
   - topic: 
-    subtopic: Section 2 <a href="https://github.com/harvard-ml-courses/cs181-section/blob/master/section02-s17-student.pdf">  Model Selection </a> <a href="https://github.com/harvard-ml-courses/cs181-section/blob/master/section02-s17-soln.pdf">  (sol) </a> 
+    subtopic: Section 2 <a href="https://github.com/harvard-ml-courses/cs181-section/blob/master/s17/section02-s17-student.pdf">  Model Selection </a> <a href="https://github.com/harvard-ml-courses/cs181-section/blob/master/s17/section02-s17-soln.pdf">  (sol) </a> 
     hw: 
     papers:
     section:
@@ -95,7 +95,7 @@ lectures:
     section:
     demos: <a href = "https://github.com/harvard-ml-courses/cs181-demos/blob/master/s17/Perceptron.ipynb"> Perceptron </a> 
   - topic: 
-    subtopic: Section 3  <a href="https://github.com/harvard-ml-courses/cs181-section/blob/master/section03-s17-student.pdf">  Bayes Classification </a><a href="https://github.com/harvard-ml-courses/cs181-section/blob/master/section03-s17.pdf">  (sol) </a>  
+    subtopic: Section 3  <a href="https://github.com/harvard-ml-courses/cs181-section/blob/master/s17/section03-s17-student.pdf">  Bayes Classification </a><a href="https://github.com/harvard-ml-courses/cs181-section/blob/master/s17/section03-s17.pdf">  (sol) </a>  
     hw: 
     papers: 
     section:
@@ -114,7 +114,7 @@ lectures:
     section:
     demos: <a href="https://github.com/harvard-ml-courses/cs181-demos/blob/master/s17/NeuralNetwork1.ipynb">Neural Networks 1</a> <br> <a href="http://playground.tensorflow.org/">TF Playground</a>
   - topic: 
-    subtopic: Section 4 <a href="https://github.com/harvard-ml-courses/cs181-section/blob/master/section04-s17-student.pdf">Probabilistic Classification &  NN1 </a> <a href="https://github.com/harvard-ml-courses/cs181-section/blob/master/section04-s17-soln.pdf">(sol) </a>
+    subtopic: Section 4 <a href="https://github.com/harvard-ml-courses/cs181-section/blob/master/s17/section04-s17-student.pdf">Probabilistic Classification &  NN1 </a> <a href="https://github.com/harvard-ml-courses/cs181-section/blob/master/s17/section04-s17-soln.pdf">(sol) </a>
     hw: 
     papers: 
     section:
@@ -152,7 +152,7 @@ lectures:
     section:
     demos: 
   - topic: 
-    subtopic: Section 5 <br><a href="https://github.com/harvard-ml-courses/cs181-section/blob/master/section05-s17-student.pdf">Support Vector Machines</a> <a href="https://github.com/harvard-ml-courses/cs181-section/blob/master/section05-s17.pdf">(sol) </a>
+    subtopic: Section 5 <br><a href="https://github.com/harvard-ml-courses/cs181-section/blob/master/s17/section05-s17-student.pdf">Support Vector Machines</a> <a href="https://github.com/harvard-ml-courses/cs181-section/blob/master/s17/section05-s17.pdf">(sol) </a>
     hw: 
     papers: 
     section:
@@ -171,7 +171,7 @@ lectures:
     section:
     demos: 
   - topic: 
-    subtopic: Section 7 <a href="https://github.com/harvard-ml-courses/cs181-section/blob/master/section07-s17-student.pdf">Clustering</a> <br> <a href = 'https://github.com/harvard-ml-courses/cs181-section/blob/master/Curse%20of%20Dimensionality%20Simulations.ipynb'>demo</a> <a href = 'https://github.com/harvard-ml-courses/cs181-section/blob/master/section07-s17-soln.pdf'> (sol) </a>
+    subtopic: Section 7 <a href="https://github.com/harvard-ml-courses/cs181-section/blob/master/s17/section07-s17-student.pdf">Clustering</a> <br> <a href = 'https://github.com/harvard-ml-courses/cs181-demos/blob/master/s17/Curse%20of%20Dimensionality%20Simulations.ipynb'>demo</a> <a href = 'https://github.com/harvard-ml-courses/cs181-section/blob/master/s17/section07-s17-soln.pdf'> (sol) </a>
     hw: 
     papers:
     section:
@@ -190,7 +190,7 @@ lectures:
     section:
     demos: <a href = 'https://github.com/harvard-ml-courses/cs181-demos/blob/master/s17/TopicModeling.ipynb'> Topic Modeling </a>
   - topic: 
-    subtopic: Section 8 <a href = 'https://github.com/harvard-ml-courses/cs181-section/blob/master/section08-s17-student.pdf'> <br> EM and Topic Modeling </a> <a href = 'https://github.com/harvard-ml-courses/cs181-section/blob/master/section08-s17-soln.pdf'> (sol) </a>
+    subtopic: Section 8 <a href = 'https://github.com/harvard-ml-courses/cs181-section/blob/master/s17/section08-s17-student.pdf'> <br> EM and Topic Modeling </a> <a href = 'https://github.com/harvard-ml-courses/cs181-section/blob/master/s17/section08-s17-soln.pdf'> (sol) </a>
     hw: 
     papers:
     section:
@@ -209,7 +209,7 @@ lectures:
     section:
     demos:
   - topic: 
-    subtopic: Section 9 <a href = 'https://github.com/harvard-ml-courses/cs181-section/blob/master/section09-s17-student.pdf'> <br> PCA + HMMs </a> <a href = 'https://github.com/harvard-ml-courses/cs181-section/blob/master/section09-s17-soln.pdf'> (sol) </a>
+    subtopic: Section 9 <a href = 'https://github.com/harvard-ml-courses/cs181-section/blob/master/s17/section09-s17-student.pdf'> <br> PCA + HMMs </a> <a href = 'https://github.com/harvard-ml-courses/cs181-section/blob/master/s17/section09-s17-soln.pdf'> (sol) </a>
     hw: 
     papers:
     section:
@@ -228,7 +228,7 @@ lectures:
     section:
     demos: 
   - topic: 
-    subtopic: Section 10 <a href = 'https://github.com/harvard-ml-courses/cs181-section/blob/master/section10-s17-student.pdf'> <br> Bayesian Networks </a> <a href= 'https://github.com/harvard-ml-courses/cs181-section/blob/master/section10-s17-soln.pdf'>(sol)</a>
+    subtopic: Section 10 <a href = 'https://github.com/harvard-ml-courses/cs181-section/blob/master/s17/section10-s17-student.pdf'> <br> Bayesian Networks </a> <a href= 'https://github.com/harvard-ml-courses/cs181-section/blob/master/s17/section10-s17-soln.pdf'>(sol)</a>
     hw: 
     papers:
     section:
@@ -247,7 +247,7 @@ lectures:
     section:
     demos: 
   - topic: 
-    subtopic: Section 11 <a href = 'https://github.com/harvard-ml-courses/cs181-section/blob/master/section11-s17-student.pdf'> MDP and RL </a> <a href= 'https://github.com/harvard-ml-courses/cs181-section/blob/master/section11-s17-soln.pdf'>(sol)</a>
+    subtopic: Section 11 <a href = 'https://github.com/harvard-ml-courses/cs181-section/blob/master/s17/section11-s17-student.pdf'> MDP and RL </a> <a href= 'https://github.com/harvard-ml-courses/cs181-section/blob/master/s17/section11-s17-soln.pdf'>(sol)</a>
     hw: 
     papers:
     section:

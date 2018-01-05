@@ -133,8 +133,8 @@ lectures:
     section:
     demos:
   - topic: 
-    subtopic: <a href="https://github.com/harvard-ml-courses/cs181-section/blob/master/midterm-review.pdf">Midterm Review</a>
-    hw: <a href="https://github.com/harvard-ml-courses/cs181-section/blob/master/practice-midterm-problems.pdf">Practice Problems</a> | <a href="https://github.com/harvard-ml-courses/cs181-section/blob/master/practice-midterm-problems-soln.pdf">Solutions</a>
+    subtopic: <a href="https://github.com/harvard-ml-courses/cs181-section/blob/master/s17/midterm1-review-topics.pdf">Midterm Review Topics</a>
+    hw: <a href="https://github.com/harvard-ml-courses/cs181-section/blob/master/s17/midterm1-review-problems.pdf">Practice Problems</a> | <a href="https://github.com/harvard-ml-courses/cs181-section/blob/master/s17/midterm1-review-problems-soln.pdf">Solutions</a>
     papers: 
     section:
     demos:
@@ -267,7 +267,7 @@ lectures:
     demos:
   - topic: 
     subtopic: Midterm Review
-    hw:  <a href="https://github.com/harvard-ml-courses/cs181-section/blob/master/practice-midterm2-topics.pdf">Topics</a> | <a href="https://github.com/harvard-ml-courses/cs181-section/blob/master/practice-midterm2-problems.pdf">Practice Problems</a> | <a href="https://github.com/harvard-ml-courses/cs181-section/blob/master/practice-midterm2-problems-soln.pdf">Solutions</a> 
+    hw:  <a href="https://github.com/harvard-ml-courses/cs181-section/blob/master/s17/midterm2-review-topics.pdf">Topics</a> | <a href="https://github.com/harvard-ml-courses/cs181-section/blob/master/s17/midterm2-review-problems.pdf">Practice Problems</a> | <a href="https://github.com/harvard-ml-courses/cs181-section/blob/master/s17/midterm2-review-problems-soln.pdf">Solutions</a> 
     papers:
     section:
     demos: 
